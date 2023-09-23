@@ -1,0 +1,2278 @@
+1695140816857	geckodriver	INFO	Listening on 127.0.0.1:53653
+1695140819935	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53654" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Ioana\\AppData\\Local\\Temp\\rust_mozprofile7VNfDh"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695140820903	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695140820919	Marionette	INFO	Listening on port 53663
+Read port: 53663
+WebDriver BiDi listening on ws://127.0.0.1:53654
+1695140823278	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:53654/devtools/browser/4d5127ba-ec3c-47fe-8e66-5f8446f8f339
+JavaScript error: , line 0: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+1695140835769	Marionette	INFO	Stopped listening on port 53663
+Dynamically enable window occlusion 1
+1695140873818	geckodriver	INFO	Listening on 127.0.0.1:53750
+1695140876862	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53751" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Ioana\\AppData\\Local\\Temp\\rust_mozprofileQfH6gZ"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695140877627	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695140877634	Marionette	INFO	Listening on port 53760
+Read port: 53760
+WebDriver BiDi listening on ws://127.0.0.1:53751
+1695140877921	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:53751/devtools/browser/b5bada83-aaa0-4033-a1b9-7c0aa9c7df1f
+1695140888080	Marionette	INFO	Stopped listening on port 53760
+JavaScript error: , line 0: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+Dynamically enable window occlusion 1
+1695141470331	geckodriver	INFO	Listening on 127.0.0.1:54163
+1695141473392	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54164" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Ioana\\AppData\\Local\\Temp\\rust_mozprofileEMYfqz"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695141474321	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695141474349	Marionette	INFO	Listening on port 54173
+Read port: 54173
+WebDriver BiDi listening on ws://127.0.0.1:54164
+1695141476423	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:54164/devtools/browser/1af5a525-26ed-4909-84a0-7cfefab2b105
+JavaScript error: , line 0: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+1695141491021	Marionette	INFO	Stopped listening on port 54173
+Dynamically enable window occlusion 1
+1695141752170	geckodriver	INFO	Listening on 127.0.0.1:54445
+1695141755245	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54446" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Ioana\\AppData\\Local\\Temp\\rust_mozprofile0AnwgO"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695141756221	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695141756233	Marionette	INFO	Listening on port 54456
+Read port: 54456
+WebDriver BiDi listening on ws://127.0.0.1:54446
+1695141756632	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:54446/devtools/browser/66af67c6-3774-443e-97b7-f504516a13f5
+JavaScript error: , line 0: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+1695141767045	Marionette	INFO	Stopped listening on port 54456
+Dynamically enable window occlusion 1
+1695142181207	geckodriver	INFO	Listening on 127.0.0.1:54726
+1695142184240	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54727" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Ioana\\AppData\\Local\\Temp\\rust_mozprofileccVK58"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695142185006	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695142185013	Marionette	INFO	Listening on port 54737
+Read port: 54737
+WebDriver BiDi listening on ws://127.0.0.1:54727
+1695142185255	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:54727/devtools/browser/237aa989-f1d2-408f-937e-7d464c6e2361
+1695142196094	Marionette	INFO	Stopped listening on port 54737
+JavaScript error: , line 0: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+Dynamically enable window occlusion 1
+1695142222662	geckodriver	INFO	Listening on 127.0.0.1:54811
+1695142225719	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54812" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Ioana\\AppData\\Local\\Temp\\rust_mozprofilewHv08i"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695142226482	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695142226491	Marionette	INFO	Listening on port 54820
+Read port: 54820
+WebDriver BiDi listening on ws://127.0.0.1:54812
+1695142226756	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:54812/devtools/browser/29bd6bd1-31f4-4da4-8889-a6127dd8d10a
+JavaScript error: , line 0: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+1695142236888	Marionette	INFO	Stopped listening on port 54820
+Dynamically enable window occlusion 1
+1695142296823	geckodriver	INFO	Listening on 127.0.0.1:54909
+1695142299858	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54910" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Ioana\\AppData\\Local\\Temp\\rust_mozprofileFa5O78"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695142300518	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695142300527	Marionette	INFO	Listening on port 54919
+Read port: 54919
+WebDriver BiDi listening on ws://127.0.0.1:54910
+1695142300756	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:54910/devtools/browser/01a4b867-176d-4733-ae10-cd1d0f8ecf9d
+JavaScript error: , line 0: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+1695142310499	Marionette	INFO	Stopped listening on port 54919
+Dynamically enable window occlusion 1
+1695142322362	geckodriver	INFO	Listening on 127.0.0.1:54985
+1695142325391	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54986" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Ioana\\AppData\\Local\\Temp\\rust_mozprofilenPoeF5"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695142326009	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695142326018	Marionette	INFO	Listening on port 54995
+Read port: 54995
+WebDriver BiDi listening on ws://127.0.0.1:54986
+1695142326269	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:54986/devtools/browser/24ecf2b3-840e-430f-9d40-f843f0c65511
+JavaScript error: , line 0: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+1695142336429	Marionette	INFO	Stopped listening on port 54995
+Dynamically enable window occlusion 1
+1695142525683	geckodriver	INFO	Listening on 127.0.0.1:55141
+1695142528721	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55142" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Ioana\\AppData\\Local\\Temp\\rust_mozprofilelHgeCV"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695142529220	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695142529230	Marionette	INFO	Listening on port 55151
+Read port: 55151
+WebDriver BiDi listening on ws://127.0.0.1:55142
+1695142529487	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:55142/devtools/browser/26b0712c-56fb-43d7-a3fc-0d66123cb266
+JavaScript error: , line 0: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+1695142539616	Marionette	INFO	Stopped listening on port 55151
+Dynamically enable window occlusion 1
+1695142619496	geckodriver	INFO	Listening on 127.0.0.1:55249
+1695142622543	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55250" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Ioana\\AppData\\Local\\Temp\\rust_mozprofile0A2JoF"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695142623175	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695142623182	Marionette	INFO	Listening on port 55261
+Read port: 55261
+WebDriver BiDi listening on ws://127.0.0.1:55250
+1695142623430	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:55250/devtools/browser/ea3ee572-ed5d-4f83-8e23-3de1ba8fec4a
+JavaScript error: , line 0: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+1695142633328	Marionette	INFO	Stopped listening on port 55261
+Dynamically enable window occlusion 1
+1695142675293	geckodriver	INFO	Listening on 127.0.0.1:55345
+1695142678357	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55346" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Ioana\\AppData\\Local\\Temp\\rust_mozprofileTdmV6v"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695142678865	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695142678873	Marionette	INFO	Listening on port 55355
+Read port: 55355
+WebDriver BiDi listening on ws://127.0.0.1:55346
+1695142679118	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:55346/devtools/browser/3fdc2c9a-8b91-45ea-a490-acad32880c76
+JavaScript error: , line 0: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+1695142691355	Marionette	INFO	Stopped listening on port 55355
+Dynamically enable window occlusion 1
+1695142837432	geckodriver	INFO	Listening on 127.0.0.1:55510
+1695142840480	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55511" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Ioana\\AppData\\Local\\Temp\\rust_mozprofilew6nzjJ"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695142841149	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695142841157	Marionette	INFO	Listening on port 55520
+Read port: 55520
+WebDriver BiDi listening on ws://127.0.0.1:55511
+1695142841411	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:55511/devtools/browser/2e0e1cbd-fb75-4a71-aaf3-08c3d1f398cb
+JavaScript error: , line 0: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+1695142853045	Marionette	INFO	Stopped listening on port 55520
+Dynamically enable window occlusion 1
+1695142871825	geckodriver	INFO	Listening on 127.0.0.1:55595
+1695142874889	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55596" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Ioana\\AppData\\Local\\Temp\\rust_mozprofileYKJmml"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695142875744	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695142875751	Marionette	INFO	Listening on port 55605
+Read port: 55605
+WebDriver BiDi listening on ws://127.0.0.1:55596
+1695142876136	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:55596/devtools/browser/7dfaa34c-dadb-4867-85a6-fefe2ce53671
+JavaScript error: , line 0: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+1695142886768	Marionette	INFO	Stopped listening on port 55605
+Dynamically enable window occlusion 1
+1695142906050	geckodriver	INFO	Listening on 127.0.0.1:55678
+1695142909103	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55679" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Ioana\\AppData\\Local\\Temp\\rust_mozprofileA7IcEZ"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695142909788	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695142909796	Marionette	INFO	Listening on port 55689
+Read port: 55689
+WebDriver BiDi listening on ws://127.0.0.1:55679
+1695142910077	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:55679/devtools/browser/d3cc154a-b78c-4123-af4b-0da4592c3715
+JavaScript error: , line 0: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+1695142920958	Marionette	INFO	Stopped listening on port 55689
+Dynamically enable window occlusion 1
+1695142934308	geckodriver	INFO	Listening on 127.0.0.1:55757
+1695142937352	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55758" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Ioana\\AppData\\Local\\Temp\\rust_mozprofilefYKriQ"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695142938105	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695142938114	Marionette	INFO	Listening on port 55767
+Read port: 55767
+WebDriver BiDi listening on ws://127.0.0.1:55758
+1695142938386	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:55758/devtools/browser/08d1d819-213e-42d5-8ba8-996869acf4b7
+JavaScript error: , line 0: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+1695142951822	Marionette	INFO	Stopped listening on port 55767
+Dynamically enable window occlusion 1
+1695142987762	geckodriver	INFO	Listening on 127.0.0.1:55851
+1695142990830	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55852" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Ioana\\AppData\\Local\\Temp\\rust_mozprofilerWp7IF"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695142991454	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695142991463	Marionette	INFO	Listening on port 55861
+Read port: 55861
+WebDriver BiDi listening on ws://127.0.0.1:55852
+1695142991713	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:55852/devtools/browser/a7d5a35f-11c3-46b4-8f4d-63bde4f40817
+JavaScript error: , line 0: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+1695143003445	Marionette	INFO	Stopped listening on port 55861
+Dynamically enable window occlusion 1
+1695143289029	geckodriver	INFO	Listening on 127.0.0.1:56063
+1695143292094	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56064" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Ioana\\AppData\\Local\\Temp\\rust_mozprofileeqeNVA"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695143292921	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695143292928	Marionette	INFO	Listening on port 56073
+Read port: 56073
+WebDriver BiDi listening on ws://127.0.0.1:56064
+1695143293169	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:56064/devtools/browser/42af89e5-daca-492a-91b0-2d4f27853675
+JavaScript error: , line 0: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+1695143307315	Marionette	INFO	Stopped listening on port 56073
+Dynamically enable window occlusion 1
+1695143905459	geckodriver	INFO	Listening on 127.0.0.1:56486
+1695143908555	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56487" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Ioana\\AppData\\Local\\Temp\\rust_mozprofilewQjbHo"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695143909462	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695143909472	Marionette	INFO	Listening on port 56496
+Read port: 56496
+WebDriver BiDi listening on ws://127.0.0.1:56487
+1695143909741	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:56487/devtools/browser/75585ddd-35ee-4d09-a322-6043e8d7deb5
+JavaScript error: , line 0: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+1695143923413	Marionette	INFO	Stopped listening on port 56496
+Dynamically enable window occlusion 1
+1695143954711	geckodriver	INFO	Listening on 127.0.0.1:56579
+1695143957743	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56580" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Ioana\\AppData\\Local\\Temp\\rust_mozprofile9sOMER"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695143958518	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695143958524	Marionette	INFO	Listening on port 56589
+Read port: 56589
+WebDriver BiDi listening on ws://127.0.0.1:56580
+1695143958831	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:56580/devtools/browser/4e5a98d2-2101-47ce-8072-e6d1a3a155e9
+JavaScript error: , line 0: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+1695143968141	Marionette	INFO	Stopped listening on port 56589
+Dynamically enable window occlusion 1
+1695144260696	geckodriver	INFO	Listening on 127.0.0.1:56791
+1695144263769	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56792" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Ioana\\AppData\\Local\\Temp\\rust_mozprofilexHR79g"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695144264536	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695144264543	Marionette	INFO	Listening on port 56801
+WebDriver BiDi listening on ws://127.0.0.1:56792
+Read port: 56801
+1695144264985	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:56792/devtools/browser/81a93abc-f8e1-4856-9530-def97dcde069
+1695144274536	Marionette	INFO	Stopped listening on port 56801
+JavaScript error: , line 0: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+Dynamically enable window occlusion 1
+1695225648272	geckodriver	INFO	Listening on 127.0.0.1:64086
+1695225651373	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64087" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Ioana\\AppData\\Local\\Temp\\rust_mozprofiledHG6EB"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695225652376	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695225652389	Marionette	INFO	Listening on port 64098
+Read port: 64098
+WebDriver BiDi listening on ws://127.0.0.1:64087
+1695225652684	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:64087/devtools/browser/b67d5634-526c-4789-b15e-a9b7266ee314
+1695225663380	Marionette	INFO	Stopped listening on port 64098
+JavaScript error: , line 0: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+Dynamically enable window occlusion 1
+1695225793451	geckodriver	INFO	Listening on 127.0.0.1:64241
+1695225796507	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64242" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Ioana\\AppData\\Local\\Temp\\rust_mozprofile4PvhGk"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695225797516	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695225797527	Marionette	INFO	Listening on port 64251
+Read port: 64251
+WebDriver BiDi listening on ws://127.0.0.1:64242
+1695225797975	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:64242/devtools/browser/8855d375-c5cc-47b1-8990-5f52c9239dd0
+1695225808548	Marionette	INFO	Stopped listening on port 64251
+JavaScript error: , line 0: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+Dynamically enable window occlusion 1
+1695227010018	geckodriver	INFO	Listening on 127.0.0.1:64938
+1695227013095	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64939" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Ioana\\AppData\\Local\\Temp\\rust_mozprofile9YMiWV"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695227014155	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695227014166	Marionette	INFO	Listening on port 64948
+Read port: 64948
+WebDriver BiDi listening on ws://127.0.0.1:64939
+1695227014763	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:64939/devtools/browser/3281bbb0-2578-408f-b310-21de2cdea5d6
+JavaScript error: , line 0: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+1695227028765	Marionette	INFO	Stopped listening on port 64948
+Dynamically enable window occlusion 1
+1695227052879	geckodriver	INFO	Listening on 127.0.0.1:65025
+1695227055916	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65026" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Ioana\\AppData\\Local\\Temp\\rust_mozprofileGrcuRU"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695227056723	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695227056731	Marionette	INFO	Listening on port 65035
+Read port: 65035
+WebDriver BiDi listening on ws://127.0.0.1:65026
+1695227057001	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:65026/devtools/browser/9e1d63c9-8824-4863-8d08-b981c3eae6ca
+JavaScript error: , line 0: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+Marionette threw an error: NoBrowsingContext: No BrowsingContext found
+getMarionetteCommandsActorProxy/get/<@chrome://remote/content/marionette/actors/MarionetteCommandsParent.sys.mjs:301:23
+
+console.error: "Marionette threw an error: NoBrowsingContext: No BrowsingContext found\ngetMarionetteCommandsActorProxy/get/<@chrome://remote/content/marionette/actors/MarionetteCommandsParent.sys.mjs:301:23\n"
+1695227068894	geckodriver	INFO	Listening on 127.0.0.1:65095
+1695227071907	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65096" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Ioana\\AppData\\Local\\Temp\\rust_mozprofileYnB68o"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695227072503	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695227072512	Marionette	INFO	Listening on port 65105
+Read port: 65105
+WebDriver BiDi listening on ws://127.0.0.1:65096
+1695227072758	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:65096/devtools/browser/c08100f0-338d-4c10-97d5-b607beab5e3c
+JavaScript error: , line 0: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+1695227079659	Marionette	INFO	Stopped listening on port 65105
+Dynamically enable window occlusion 1
+1695227168688	geckodriver	INFO	Listening on 127.0.0.1:65216
+1695227171720	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65217" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Ioana\\AppData\\Local\\Temp\\rust_mozprofileH9SKnu"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695227172478	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695227172488	Marionette	INFO	Listening on port 65226
+Read port: 65226
+WebDriver BiDi listening on ws://127.0.0.1:65217
+1695227172739	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:65217/devtools/browser/e550ca26-e4de-4d26-a771-b8ec298d5803
+1695227180228	Marionette	INFO	Stopped listening on port 65226
+JavaScript error: , line 0: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+Dynamically enable window occlusion 1
+1695227218383	geckodriver	INFO	Listening on 127.0.0.1:65306
+1695227221400	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65307" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Ioana\\AppData\\Local\\Temp\\rust_mozprofile6hgC9m"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695227222160	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695227222168	Marionette	INFO	Listening on port 65317
+Read port: 65317
+WebDriver BiDi listening on ws://127.0.0.1:65307
+1695227222426	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:65307/devtools/browser/ff5ea315-a8cf-48cd-af5b-ffa4569dcf28
+JavaScript error: , line 0: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+1695227258693	geckodriver	INFO	Listening on 127.0.0.1:65388
+1695227261731	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65389" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Ioana\\AppData\\Local\\Temp\\rust_mozprofileSmEjkz"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695227262477	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695227262485	Marionette	INFO	Listening on port 65398
+Read port: 65398
+WebDriver BiDi listening on ws://127.0.0.1:65389
+1695227262750	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:65389/devtools/browser/3283053a-2c05-480d-8cfe-d3c716a1e475
+JavaScript error: , line 0: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+1695227273023	Marionette	INFO	Stopped listening on port 65398
+Dynamically enable window occlusion 1
+1695227303761	geckodriver	INFO	Listening on 127.0.0.1:65475
+1695227306808	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65476" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Ioana\\AppData\\Local\\Temp\\rust_mozprofileIoOZ1Z"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695227307608	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695227307616	Marionette	INFO	Listening on port 65487
+Read port: 65487
+WebDriver BiDi listening on ws://127.0.0.1:65476
+1695227307887	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:65476/devtools/browser/95719021-8615-4ea4-8cf9-177e1a9d6738
+JavaScript error: , line 0: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+1695227317379	Marionette	INFO	Stopped listening on port 65487
+Dynamically enable window occlusion 1
+1695227348649	geckodriver	INFO	Listening on 127.0.0.1:49182
+1695227351690	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49183" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Ioana\\AppData\\Local\\Temp\\rust_mozprofilekhyVka"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695227352361	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695227352369	Marionette	INFO	Listening on port 49192
+Read port: 49192
+WebDriver BiDi listening on ws://127.0.0.1:49183
+1695227352721	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:49183/devtools/browser/286ac4d2-f4d0-4ca6-869a-0b3272a12877
+JavaScript error: , line 0: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+1695227362597	Marionette	INFO	Stopped listening on port 49192
+Dynamically enable window occlusion 1
+1695227395550	geckodriver	INFO	Listening on 127.0.0.1:49270
+1695227398606	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49271" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Ioana\\AppData\\Local\\Temp\\rust_mozprofile0CeJtx"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695227399232	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695227399241	Marionette	INFO	Listening on port 49280
+Read port: 49280
+WebDriver BiDi listening on ws://127.0.0.1:49271
+1695227399505	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:49271/devtools/browser/c144112e-23fe-4540-9546-0374a19ce76b
+JavaScript error: , line 0: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+1695227406745	Marionette	INFO	Stopped listening on port 49280
+Dynamically enable window occlusion 1
+1695227419971	geckodriver	INFO	Listening on 127.0.0.1:49348
+1695227423095	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49349" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Ioana\\AppData\\Local\\Temp\\rust_mozprofileQk9cJw"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695227423713	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695227423723	Marionette	INFO	Listening on port 49358
+Read port: 49358
+WebDriver BiDi listening on ws://127.0.0.1:49349
+1695227423976	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:49349/devtools/browser/595305ea-1f6c-4c7c-91b4-77246f6de758
+JavaScript error: , line 0: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+1695227431122	Marionette	INFO	Stopped listening on port 49358
+Dynamically enable window occlusion 1
+1695227462512	geckodriver	INFO	Listening on 127.0.0.1:49432
+1695227465541	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49433" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Ioana\\AppData\\Local\\Temp\\rust_mozprofileQiSkax"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695227466157	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695227466168	Marionette	INFO	Listening on port 49442
+Read port: 49442
+WebDriver BiDi listening on ws://127.0.0.1:49433
+1695227466439	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:49433/devtools/browser/83f0016a-a99e-4756-a12b-f86021c8f44f
+JavaScript error: , line 0: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+1695227474279	Marionette	INFO	Stopped listening on port 49442
+Dynamically enable window occlusion 1
+1695227510633	geckodriver	INFO	Listening on 127.0.0.1:49520
+1695227513669	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49521" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Ioana\\AppData\\Local\\Temp\\rust_mozprofileTa0DbO"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695227514260	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695227514270	Marionette	INFO	Listening on port 49530
+Read port: 49530
+WebDriver BiDi listening on ws://127.0.0.1:49521
+1695227514513	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:49521/devtools/browser/b1c566e8-24dd-4b38-b6cc-b400adf09741
+JavaScript error: , line 0: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+1695227521742	Marionette	INFO	Stopped listening on port 49530
+Dynamically enable window occlusion 1
+1695227753744	geckodriver	INFO	Listening on 127.0.0.1:49703
+1695227756797	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49704" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Ioana\\AppData\\Local\\Temp\\rust_mozprofilenB7Exn"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695227757599	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695227757611	Marionette	INFO	Listening on port 49714
+Read port: 49714
+WebDriver BiDi listening on ws://127.0.0.1:49704
+1695227757872	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:49704/devtools/browser/3cb5e34c-d30e-44a6-8c55-0fc3ecb3e4c6
+JavaScript error: , line 0: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+1695227765867	Marionette	INFO	Stopped listening on port 49714
+Dynamically enable window occlusion 1
+1695227780093	geckodriver	INFO	Listening on 127.0.0.1:49782
+1695227783147	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49783" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Ioana\\AppData\\Local\\Temp\\rust_mozprofilecFq18a"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695227783900	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695227783909	Marionette	INFO	Listening on port 49792
+Read port: 49792
+WebDriver BiDi listening on ws://127.0.0.1:49783
+1695227784160	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:49783/devtools/browser/8d5fa6ed-164c-4700-9b99-a8a69bbd0958
+JavaScript error: , line 0: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+1695227791645	Marionette	INFO	Stopped listening on port 49792
+Dynamically enable window occlusion 1
+1695228263922	geckodriver	INFO	Listening on 127.0.0.1:50140
+1695228267003	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50141" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Ioana\\AppData\\Local\\Temp\\rust_mozprofileNTjeqH"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695228268416	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695228268427	Marionette	INFO	Listening on port 50154
+Read port: 50154
+WebDriver BiDi listening on ws://127.0.0.1:50141
+1695228268761	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:50141/devtools/browser/4b025d59-e8b7-41ce-8b8e-e2fc79fa7bfe
+JavaScript error: , line 0: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+1695228277559	Marionette	INFO	Stopped listening on port 50154
+Dynamically enable window occlusion 1
+1695228433579	geckodriver	INFO	Listening on 127.0.0.1:50289
+1695228436632	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50290" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Ioana\\AppData\\Local\\Temp\\rust_mozprofilenCeJaX"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695228438040	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695228438052	Marionette	INFO	Listening on port 50299
+Read port: 50299
+WebDriver BiDi listening on ws://127.0.0.1:50290
+1695228438375	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:50290/devtools/browser/2f4bac30-9ba4-4bf6-9124-68621402e4a7
+JavaScript error: , line 0: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+1695228450736	Marionette	INFO	Stopped listening on port 50299
+Dynamically enable window occlusion 1
+1695228473221	geckodriver	INFO	Listening on 127.0.0.1:50373
+1695228476270	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50374" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Ioana\\AppData\\Local\\Temp\\rust_mozprofilelBKUqz"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695228477191	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695228477200	Marionette	INFO	Listening on port 50383
+Read port: 50383
+WebDriver BiDi listening on ws://127.0.0.1:50374
+1695228477452	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:50374/devtools/browser/c1de2efe-6c8c-4375-92ee-4394b3a2d654
+JavaScript error: , line 0: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+1695228487809	Marionette	INFO	Stopped listening on port 50383
+Dynamically enable window occlusion 1
+1695228502819	geckodriver	INFO	Listening on 127.0.0.1:50457
+1695228505865	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50458" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Ioana\\AppData\\Local\\Temp\\rust_mozprofilekBQG8l"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695228506825	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695228506832	Marionette	INFO	Listening on port 50467
+Read port: 50467
+WebDriver BiDi listening on ws://127.0.0.1:50458
+1695228507150	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:50458/devtools/browser/ff8c0f7a-e8f1-4173-bfbd-45ce9ec4e607
+JavaScript error: , line 0: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+1695228519348	Marionette	INFO	Stopped listening on port 50467
+Dynamically enable window occlusion 1
+1695228532008	geckodriver	INFO	Listening on 127.0.0.1:50545
+1695228535076	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50546" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Ioana\\AppData\\Local\\Temp\\rust_mozprofileoGJFnz"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695228536004	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695228536013	Marionette	INFO	Listening on port 50555
+Read port: 50555
+WebDriver BiDi listening on ws://127.0.0.1:50546
+1695228536304	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:50546/devtools/browser/f06f48f2-468b-469d-8b13-76c7430345e2
+JavaScript error: , line 0: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+1695228543235	Marionette	INFO	Stopped listening on port 50555
+Dynamically enable window occlusion 1
+1695228656954	geckodriver	INFO	Listening on 127.0.0.1:50679
+1695228660026	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50680" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Ioana\\AppData\\Local\\Temp\\rust_mozprofileEo7Z7D"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695228660732	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695228660740	Marionette	INFO	Listening on port 50688
+Read port: 50688
+WebDriver BiDi listening on ws://127.0.0.1:50680
+1695228661047	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:50680/devtools/browser/15a26846-b99c-498e-8ef2-74de14ea4e07
+JavaScript error: , line 0: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+1695228669298	Marionette	INFO	Stopped listening on port 50688
+Dynamically enable window occlusion 1
+1695228817105	geckodriver	INFO	Listening on 127.0.0.1:50811
+1695228820161	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50812" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Ioana\\AppData\\Local\\Temp\\rust_mozprofileskuMKG"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695228821164	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695228821173	Marionette	INFO	Listening on port 50821
+Read port: 50821
+WebDriver BiDi listening on ws://127.0.0.1:50812
+1695228821502	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:50812/devtools/browser/40a0334b-8f6e-44d3-b460-bd5b92da1bdf
+JavaScript error: , line 0: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+1695228832155	Marionette	INFO	Stopped listening on port 50821
+Dynamically enable window occlusion 1
+1695229662748	geckodriver	INFO	Listening on 127.0.0.1:51324
+1695229665813	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51325" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Ioana\\AppData\\Local\\Temp\\rust_mozprofileH1MBID"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695229666855	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695229667027	Marionette	INFO	Listening on port 51335
+Read port: 51335
+WebDriver BiDi listening on ws://127.0.0.1:51325
+1695229667289	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:51325/devtools/browser/d614d6f3-ff98-42ac-a6fe-e97c46d75f6f
+JavaScript error: , line 0: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+1695229696107	Marionette	INFO	Stopped listening on port 51335
+Dynamically enable window occlusion 1
+console.error: (new Error("Polling for changes failed: NetworkError: Network request failed.", "resource://services-settings/remote-settings.sys.mjs", 324))
+1695229697141	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, channelStatus: 2147500036, errorCode: 2, reason: error
+1695229908628	geckodriver	INFO	Listening on 127.0.0.1:51514
+1695229911681	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51515" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Ioana\\AppData\\Local\\Temp\\rust_mozprofileNacVtL"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695229913124	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695229913358	Marionette	INFO	Listening on port 51527
+WebDriver BiDi listening on ws://127.0.0.1:51515
+Read port: 51527
+1695229913855	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:51515/devtools/browser/fd40e0ec-ec04-4ec8-9853-1dfeb8202360
+JavaScript error: , line 0: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+1695229923799	Marionette	INFO	Stopped listening on port 51527
+JavaScript warning: https://code.jquery.com/jquery-3.6.1.min.js, line 2: Script terminated by timeout at:
+st@https://code.jquery.com/jquery-3.6.1.min.js:2:58990
+
+Dynamically enable window occlusion 1
+1695230086461	geckodriver	INFO	Listening on 127.0.0.1:51684
+1695230089521	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51685" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Ioana\\AppData\\Local\\Temp\\rust_mozprofileWLOztk"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695230090084	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695230090206	Marionette	INFO	Listening on port 51695
+WebDriver BiDi listening on ws://127.0.0.1:51685
+Read port: 51695
+1695230090638	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:51685/devtools/browser/c7053b41-7c3e-41b6-b900-5d2d438df7d7
+JavaScript error: , line 0: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+1695230101174	Marionette	INFO	Stopped listening on port 51695
+JavaScript warning: https://phptravels.net/assets/js/app.js, line 781: Script terminated by timeout at:
+convertStyle@https://phptravels.net/assets/js/app.js:781:43
+removeRipple/<@https://phptravels.net/assets/js/app.js:793:509
+
+Dynamically enable window occlusion 1
+1695230226865	geckodriver	INFO	Listening on 127.0.0.1:51824
+1695230229932	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51825" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Ioana\\AppData\\Local\\Temp\\rust_mozprofile0CJiY2"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695230230783	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695230230896	Marionette	INFO	Listening on port 51834
+WebDriver BiDi listening on ws://127.0.0.1:51825
+Read port: 51834
+1695230231949	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:51825/devtools/browser/8a5dfe6c-892d-410c-a783-0cf0cdb0d9d2
+JavaScript error: , line 0: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+1695230245848	Marionette	INFO	Stopped listening on port 51834
+JavaScript warning: https://code.jquery.com/jquery-3.6.1.min.js, line 2: Script terminated by timeout at:
+add/y.handle@https://code.jquery.com/jquery-3.6.1.min.js:2:40971
+
+Dynamically enable window occlusion 1
+1695230263136	geckodriver	INFO	Listening on 127.0.0.1:51914
+1695230266225	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51915" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Ioana\\AppData\\Local\\Temp\\rust_mozprofile5yJuE1"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695230266990	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695230267110	Marionette	INFO	Listening on port 51924
+WebDriver BiDi listening on ws://127.0.0.1:51915
+Read port: 51924
+1695230267302	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:51915/devtools/browser/9f881cac-876d-4420-b835-9dfd027057a3
+JavaScript error: , line 0: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+1695230283437	Marionette	INFO	Stopped listening on port 51924
+Dynamically enable window occlusion 1
+1695231396153	geckodriver	INFO	Listening on 127.0.0.1:52556
+1695231399211	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52557" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Ioana\\AppData\\Local\\Temp\\rust_mozprofile4556jp"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695231400336	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695231400541	Marionette	INFO	Listening on port 52566
+Read port: 52566
+WebDriver BiDi listening on ws://127.0.0.1:52557
+1695231400794	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:52557/devtools/browser/d6196ea2-035b-4e54-9abb-7bbc396ca700
+JavaScript error: , line 0: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+1695231418443	Marionette	INFO	Stopped listening on port 52566
+Dynamically enable window occlusion 1
+1695231458139	geckodriver	INFO	Listening on 127.0.0.1:52662
+1695231461205	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52663" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Ioana\\AppData\\Local\\Temp\\rust_mozprofileoruMhC"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695231462018	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695231462149	Marionette	INFO	Listening on port 52673
+WebDriver BiDi listening on ws://127.0.0.1:52663
+Read port: 52673
+1695231462505	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:52663/devtools/browser/e77969ce-373c-4193-9aee-7589edcf4d65
+JavaScript error: , line 0: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+1695231476018	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:203:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:429:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:178:31
+1695231476248	Marionette	INFO	Stopped listening on port 52673
+Dynamically enable window occlusion 1
+1695231528788	geckodriver	INFO	Listening on 127.0.0.1:52765
+1695231531828	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52766" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Ioana\\AppData\\Local\\Temp\\rust_mozprofileviJh6N"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695231532688	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695231532818	Marionette	INFO	Listening on port 52775
+WebDriver BiDi listening on ws://127.0.0.1:52766
+Read port: 52775
+1695231533024	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:52766/devtools/browser/1b252780-846c-444b-abe9-40b06b0d1e73
+JavaScript error: , line 0: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+1695231543401	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:203:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:429:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:178:31
+1695231543633	Marionette	INFO	Stopped listening on port 52775
+Dynamically enable window occlusion 1
+1695231828656	geckodriver	INFO	Listening on 127.0.0.1:52986
+1695231831701	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52987" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Ioana\\AppData\\Local\\Temp\\rust_mozprofileRYzek8"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695231832503	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695231832635	Marionette	INFO	Listening on port 52996
+WebDriver BiDi listening on ws://127.0.0.1:52987
+Read port: 52996
+1695231833094	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:52987/devtools/browser/78a1dfc8-5a9b-4a6c-9239-42dca87af355
+JavaScript error: , line 0: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+1695231843875	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:203:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:429:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:178:31
+1695231844476	Marionette	INFO	Stopped listening on port 52996
+JavaScript warning: https://code.jquery.com/jquery-3.6.1.min.js, line 2: Script terminated by timeout at:
+S@https://code.jquery.com/jquery-3.6.1.min.js:2:1044
+@https://phptravels.net/:4867:2
+
+Dynamically enable window occlusion 1
+1695231872381	geckodriver	INFO	Listening on 127.0.0.1:53080
+1695231875453	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53081" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Ioana\\AppData\\Local\\Temp\\rust_mozprofilecc3mRf"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695231876250	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695231876371	Marionette	INFO	Listening on port 53090
+WebDriver BiDi listening on ws://127.0.0.1:53081
+Read port: 53090
+1695231876788	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:53081/devtools/browser/2c014f25-6eb6-4384-9ce5-d0d40d8754b7
+JavaScript error: , line 0: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+1695231887167	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:203:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:429:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:178:31
+1695231887814	Marionette	INFO	Stopped listening on port 53090
+JavaScript warning: https://phptravels.net/, line 1352: Script terminated by timeout at:
+addEventFlights/</<@https://phptravels.net/:1352:13
+
+Dynamically enable window occlusion 1
+1695231911486	geckodriver	INFO	Listening on 127.0.0.1:53172
+1695231914533	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53173" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Ioana\\AppData\\Local\\Temp\\rust_mozprofileKNoRgF"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695231915346	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695231915464	Marionette	INFO	Listening on port 53183
+WebDriver BiDi listening on ws://127.0.0.1:53173
+Read port: 53183
+1695231915907	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:53173/devtools/browser/fade29e8-be6b-4c0a-83d9-77897cf2acbc
+JavaScript error: , line 0: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+1695231925775	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:203:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:429:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:178:31
+1695231926275	Marionette	INFO	Stopped listening on port 53183
+JavaScript warning: https://phptravels.net/, line 1352: Script terminated by timeout at:
+addEventFlights/</<@https://phptravels.net/:1352:13
+
+Dynamically enable window occlusion 1
+1695231957948	geckodriver	INFO	Listening on 127.0.0.1:53266
+1695231961004	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53267" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Ioana\\AppData\\Local\\Temp\\rust_mozprofilec2VohW"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695231961740	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695231961907	Marionette	INFO	Listening on port 53277
+WebDriver BiDi listening on ws://127.0.0.1:53267
+Read port: 53277
+1695231962394	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:53267/devtools/browser/2e5c73ca-663a-48c2-835a-0eca60569dc5
+JavaScript error: , line 0: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+1695231972736	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:203:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:429:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:178:31
+1695231993314	Marionette	INFO	Stopped listening on port 53277
+Dynamically enable window occlusion 1
+console.warn: services.settings: main/devtools-compatibility-browsers sync interrupted by shutdown
+console.warn: services.settings: main/cookie-banner-rules-list sync interrupted by shutdown
+console.error: (new AbortError("IndexedDB: main/language-dictionaries getLastModified() IndexedDB:  execute() A request was aborted, for example through a call to IDBTransaction.abort.", "resource://services-settings/IDBHelpers.sys.mjs", 16))
+1695232120524	geckodriver	INFO	Listening on 127.0.0.1:53418
+1695232123575	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53419" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Ioana\\AppData\\Local\\Temp\\rust_mozprofile5FRg0f"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695232124170	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695232124297	Marionette	INFO	Listening on port 53427
+WebDriver BiDi listening on ws://127.0.0.1:53419
+Read port: 53427
+1695232124746	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:53419/devtools/browser/80b37874-1318-4d16-92f0-7f0154ae6fc5
+JavaScript error: , line 0: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+1695232134925	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:203:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:429:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:178:31
+1695232145633	Marionette	INFO	Stopped listening on port 53427
+Dynamically enable window occlusion 1
+1695232367530	geckodriver	INFO	Listening on 127.0.0.1:53606
+1695232370589	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53607" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Ioana\\AppData\\Local\\Temp\\rust_mozprofilercZa5j"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695232371575	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695232371763	Marionette	INFO	Listening on port 53616
+WebDriver BiDi listening on ws://127.0.0.1:53607
+Read port: 53616
+1695232372726	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:53607/devtools/browser/0615bd36-5cc2-4bd4-a884-c07e4b373d46
+JavaScript error: , line 0: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+1695232391063	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:203:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:429:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:178:31
+1695232391612	Marionette	INFO	Stopped listening on port 53616
+JavaScript warning: https://code.jquery.com/jquery-3.6.1.min.js, line 2: Script terminated by timeout at:
+S@https://code.jquery.com/jquery-3.6.1.min.js:2:1044
+@https://phptravels.net/:4867:2
+
+Dynamically enable window occlusion 1
+1695232471178	geckodriver	INFO	Listening on 127.0.0.1:53730
+1695232474240	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53731" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Ioana\\AppData\\Local\\Temp\\rust_mozprofilegGcnWX"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695232475032	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695232475170	Marionette	INFO	Listening on port 53740
+WebDriver BiDi listening on ws://127.0.0.1:53731
+Read port: 53740
+1695232475911	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:53731/devtools/browser/3a704f19-a367-4ea7-b9ec-1ec5157eb88b
+JavaScript error: , line 0: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+1695232488661	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:203:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:429:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:178:31
+1695232489270	Marionette	INFO	Stopped listening on port 53740
+JavaScript warning: https://phptravels.net/, line 1352: Script terminated by timeout at:
+addEventFlights/</<@https://phptravels.net/:1352:13
+
+Dynamically enable window occlusion 1
+1695232815876	geckodriver	INFO	Listening on 127.0.0.1:53993
+1695232818890	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53994" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Ioana\\AppData\\Local\\Temp\\rust_mozprofileDiRVsH"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695232820129	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695232820595	Marionette	INFO	Listening on port 54003
+WebDriver BiDi listening on ws://127.0.0.1:53994
+Read port: 54003
+1695232822080	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:53994/devtools/browser/d42d7f6a-fd2a-4414-b7b7-1dc6c99f03a1
+JavaScript error: , line 0: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+1695232833134	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:203:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:429:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:178:31
+1695232838793	Marionette	INFO	Stopped listening on port 54003
+Dynamically enable window occlusion 1
+1695232883487	geckodriver	INFO	Listening on 127.0.0.1:54098
+1695232886554	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54099" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Ioana\\AppData\\Local\\Temp\\rust_mozprofileCiWpb9"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695232887346	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695232887470	Marionette	INFO	Listening on port 54108
+WebDriver BiDi listening on ws://127.0.0.1:54099
+Read port: 54108
+1695232887907	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:54099/devtools/browser/c8c03a1c-9873-4e6d-8c90-8bfb3b055326
+JavaScript error: , line 0: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+1695232898608	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:203:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:429:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:178:31
+1695232904214	Marionette	INFO	Stopped listening on port 54108
+Dynamically enable window occlusion 1
+1695232931787	geckodriver	INFO	Listening on 127.0.0.1:54191
+1695232934858	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54192" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Ioana\\AppData\\Local\\Temp\\rust_mozprofileWwMtxl"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695232935681	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695232935803	Marionette	INFO	Listening on port 54201
+WebDriver BiDi listening on ws://127.0.0.1:54192
+Read port: 54201
+1695232936176	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:54192/devtools/browser/eab692c5-f9e2-46c8-9db5-d918d3d762b6
+JavaScript error: , line 0: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+1695232946279	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:203:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:429:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:178:31
+1695232953929	Marionette	INFO	Stopped listening on port 54201
+Dynamically enable window occlusion 1
+1695232963223	geckodriver	INFO	Listening on 127.0.0.1:54273
+1695232966276	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54274" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Ioana\\AppData\\Local\\Temp\\rust_mozprofilef87jD4"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695232967079	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695232967202	Marionette	INFO	Listening on port 54282
+WebDriver BiDi listening on ws://127.0.0.1:54274
+Read port: 54282
+1695232967627	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:54274/devtools/browser/d99e9555-7f80-4c13-9825-050d28a7dad2
+JavaScript error: , line 0: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+1695232977341	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:203:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:429:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:178:31
+1695232984982	Marionette	INFO	Stopped listening on port 54282
+Dynamically enable window occlusion 1
+1695233092822	geckodriver	INFO	Listening on 127.0.0.1:54423
+1695233095884	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54424" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Ioana\\AppData\\Local\\Temp\\rust_mozprofilecya7yy"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695233096621	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695233096779	Marionette	INFO	Listening on port 54434
+WebDriver BiDi listening on ws://127.0.0.1:54424
+Read port: 54434
+1695233097199	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:54424/devtools/browser/f48278ba-4874-41df-b958-a21939797152
+JavaScript error: , line 0: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+1695233108545	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:203:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:429:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:178:31
+1695233116321	Marionette	INFO	Stopped listening on port 54434
+Dynamically enable window occlusion 1
+1695233326606	geckodriver	INFO	Listening on 127.0.0.1:54619
+1695233329669	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54620" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Ioana\\AppData\\Local\\Temp\\rust_mozprofileUQQBCC"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695233330601	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695233330753	Marionette	INFO	Listening on port 54629
+WebDriver BiDi listening on ws://127.0.0.1:54620
+Read port: 54629
+1695233331557	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:54620/devtools/browser/b7554f65-3d59-407e-a846-a763d034e4a5
+JavaScript error: , line 0: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+1695233353501	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:203:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:429:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:178:31
+1695233361165	Marionette	INFO	Stopped listening on port 54629
+Dynamically enable window occlusion 1
+console.error: services.settings: 
+  Message: NetworkError: Network error: TypeError: NetworkError: Network request failed
+  Stack:
+    APIError@resource://services-settings/RemoteSettingsClient.sys.mjs:107:1
+NetworkError@resource://services-settings/RemoteSettingsClient.sys.mjs:111:5
+_adjustedError@resource://services-settings/RemoteSettingsClient.sys.mjs:907:14
+maybeSync@resource://services-settings/RemoteSettingsClient.sys.mjs:812:38
+
+console.warn: services.settings: main/language-dictionaries sync interrupted by shutdown
+console.warn: services.settings: main/password-recipes sync interrupted by shutdown
+console.error: (new AbortError("IndexedDB: main/password-rules getLastModified() IndexedDB:  execute() A request was aborted, for example through a call to IDBTransaction.abort.", "resource://services-settings/IDBHelpers.sys.mjs", 16))
+1695233646989	geckodriver	INFO	Listening on 127.0.0.1:54879
+1695233650053	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54880" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Ioana\\AppData\\Local\\Temp\\rust_mozprofilebZNYMf"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695233651184	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695233651390	Marionette	INFO	Listening on port 54891
+WebDriver BiDi listening on ws://127.0.0.1:54880
+Read port: 54891
+Read port: 54891
+Read port: 54891
+1695233656416	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:54880/devtools/browser/57982eef-dd62-456e-91e3-5c655bce2e05
+JavaScript error: , line 0: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+1695233667896	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:203:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:429:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:178:31
+1695233675539	Marionette	INFO	Stopped listening on port 54891
+Dynamically enable window occlusion 1
+!!! error running onStopped callback: TypeError: callback is not a function
+console.error: (new Error("Data is not ready.", "resource://gre/modules/JSONFile.sys.mjs", 178))
+1695233704070	geckodriver	INFO	Listening on 127.0.0.1:54978
+1695233707133	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54979" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Ioana\\AppData\\Local\\Temp\\rust_mozprofilePzkmt9"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695233707969	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695233708102	Marionette	INFO	Listening on port 54988
+WebDriver BiDi listening on ws://127.0.0.1:54979
+Read port: 54988
+1695233708658	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1695233720805	geckodriver	INFO	Listening on 127.0.0.1:55010
+1695233723848	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55011" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Ioana\\AppData\\Local\\Temp\\rust_mozprofile3S6i0M"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695233725527	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695233725865	Marionette	INFO	Listening on port 55025
+WebDriver BiDi listening on ws://127.0.0.1:55011
+Read port: 55025
+1695233726493	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:55011/devtools/browser/039582e8-b14a-4ccf-a479-44fa54f53fd0
+JavaScript error: , line 0: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+1695233737866	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:203:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:429:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:178:31
+1695233745570	Marionette	INFO	Stopped listening on port 55025
+Dynamically enable window occlusion 1
+1695234045274	geckodriver	INFO	Listening on 127.0.0.1:55141
+1695234048356	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55142" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Ioana\\AppData\\Local\\Temp\\rust_mozprofilehgx98M"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695234049409	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695234049560	Marionette	INFO	Listening on port 55150
+Read port: 55150
+WebDriver BiDi listening on ws://127.0.0.1:55142
+1695234049814	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:55142/devtools/browser/3b302250-28b4-4484-acdb-52d6e95a2bd4
+JavaScript error: , line 0: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+1695234064719	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:203:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:429:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:178:31
+1695234073222	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:203:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:429:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:178:31
+1695234080763	Marionette	INFO	Stopped listening on port 55150
+Dynamically enable window occlusion 1
+console.error: services.settings: 
+  Message: NetworkError: Network error: TypeError: NetworkError: Network request failed
+  Stack:
+    APIError@resource://services-settings/RemoteSettingsClient.sys.mjs:107:1
+NetworkError@resource://services-settings/RemoteSettingsClient.sys.mjs:111:5
+_adjustedError@resource://services-settings/RemoteSettingsClient.sys.mjs:907:14
+maybeSync@resource://services-settings/RemoteSettingsClient.sys.mjs:812:38
+
+console.warn: services.settings: main/password-rules sync interrupted by shutdown
+console.warn: services.settings: main/translations-identification-models sync interrupted by shutdown
+console.warn: services.settings: main/translations-wasm sync interrupted by shutdown
+console.error: (new AbortError("IndexedDB: main/fxmonitor-breaches getLastModified() IndexedDB:  execute() A request was aborted, for example through a call to IDBTransaction.abort.", "resource://services-settings/IDBHelpers.sys.mjs", 16))
+1695274809286	geckodriver	INFO	Listening on 127.0.0.1:55596
+1695274812438	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55597" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Ioana\\AppData\\Local\\Temp\\rust_mozprofile7xYeKT"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695274813529	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695274813717	Marionette	INFO	Listening on port 55606
+WebDriver BiDi listening on ws://127.0.0.1:55597
+Read port: 55606
+1695274814367	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:55597/devtools/browser/1607b4c2-3f7f-43eb-8284-95408f3e5145
+JavaScript error: , line 0: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+1695274825513	Marionette	INFO	Stopped listening on port 55606
+JavaScript warning: https://code.jquery.com/jquery-3.6.1.min.js, line 2: Script terminated by timeout at:
+S.fx.tick@https://code.jquery.com/jquery-3.6.1.min.js:2:64685
+st@https://code.jquery.com/jquery-3.6.1.min.js:2:59098
+
+Dynamically enable window occlusion 1
+1695274849805	geckodriver	INFO	Listening on 127.0.0.1:55692
+1695274852867	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55693" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Ioana\\AppData\\Local\\Temp\\rust_mozprofilen5QOpC"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695274853703	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695274853839	Marionette	INFO	Listening on port 55703
+WebDriver BiDi listening on ws://127.0.0.1:55693
+Read port: 55703
+1695274854308	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:55693/devtools/browser/662e5d64-5948-4c83-a3b3-6b9826aeff27
+JavaScript error: , line 0: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+1695274866475	Marionette	INFO	Stopped listening on port 55703
+JavaScript warning: https://code.jquery.com/jquery-3.6.1.min.js, line 2: Script terminated by timeout at:
+S@https://code.jquery.com/jquery-3.6.1.min.js:2:1044
+@https://phptravels.net/:4867:2
+
+Dynamically enable window occlusion 1
+1695274964243	geckodriver	INFO	Listening on 127.0.0.1:55822
+1695274967312	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55823" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Ioana\\AppData\\Local\\Temp\\rust_mozprofileiXoZFn"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695274968066	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695274968212	Marionette	INFO	Listening on port 55832
+WebDriver BiDi listening on ws://127.0.0.1:55823
+Read port: 55832
+1695274968750	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:55823/devtools/browser/a97c7ddb-6e37-48fe-97d1-792cdb70e1cd
+JavaScript error: , line 0: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+1695274979777	Marionette	INFO	Stopped listening on port 55832
+JavaScript warning: https://code.jquery.com/jquery-3.6.1.min.js, line 2: Script terminated by timeout at:
+u@https://code.jquery.com/jquery-3.6.1.min.js:2:59676
+S.fx.tick@https://code.jquery.com/jquery-3.6.1.min.js:2:64739
+st@https://code.jquery.com/jquery-3.6.1.min.js:2:59098
+
+Dynamically enable window occlusion 1
+1695275059877	geckodriver	INFO	Listening on 127.0.0.1:55940
+1695275062914	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55941" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Ioana\\AppData\\Local\\Temp\\rust_mozprofilebx64mX"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695275063733	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695275063872	Marionette	INFO	Listening on port 55951
+WebDriver BiDi listening on ws://127.0.0.1:55941
+Read port: 55951
+1695275064344	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:55941/devtools/browser/a77db100-90c1-4ceb-b605-78ab9410be25
+JavaScript error: , line 0: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+1695275074373	Marionette	INFO	Stopped listening on port 55951
+Dynamically enable window occlusion 1
+1695275339737	geckodriver	INFO	Listening on 127.0.0.1:56264
+1695275342950	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56265" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Ioana\\AppData\\Local\\Temp\\rust_mozprofileKJIDnw"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695275344344	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695275344518	Marionette	INFO	Listening on port 56275
+WebDriver BiDi listening on ws://127.0.0.1:56265
+Read port: 56275
+1695275344976	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:56265/devtools/browser/71b59c85-6688-491b-866a-4f8cb19a6dd4
+JavaScript error: , line 0: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+1695275359293	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:203:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:429:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:178:31
+1695275367718	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:203:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:429:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:178:31
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1695275499266	geckodriver	INFO	Listening on 127.0.0.1:56454
+1695275502338	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56455" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Ioana\\AppData\\Local\\Temp\\rust_mozprofilesRmIg9"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695275503320	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695275503462	Marionette	INFO	Listening on port 56467
+WebDriver BiDi listening on ws://127.0.0.1:56455
+Read port: 56467
+1695275503963	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:56455/devtools/browser/0a384bc3-c3a7-4343-8782-7c233921023c
+JavaScript error: , line 0: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+1695275515133	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:203:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:429:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:178:31
+1695275523543	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:203:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:429:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:178:31
+1695275536382	Marionette	INFO	Stopped listening on port 56467
+Dynamically enable window occlusion 1
+1695275665182	geckodriver	INFO	Listening on 127.0.0.1:56640
+1695275668264	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56641" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Ioana\\AppData\\Local\\Temp\\rust_mozprofile2lVWTK"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695275669159	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695275669285	Marionette	INFO	Listening on port 56650
+Read port: 56650
+WebDriver BiDi listening on ws://127.0.0.1:56641
+1695275669645	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:56641/devtools/browser/8b217c55-65e5-4f43-859e-6dc6edf39b10
+JavaScript error: , line 0: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+1695275692142	Marionette	INFO	Stopped listening on port 56650
+Dynamically enable window occlusion 1
+1695275732488	geckodriver	INFO	Listening on 127.0.0.1:56760
+1695275735525	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56761" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Ioana\\AppData\\Local\\Temp\\rust_mozprofileZxbC2h"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695275736304	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695275736423	Marionette	INFO	Listening on port 56770
+WebDriver BiDi listening on ws://127.0.0.1:56761
+Read port: 56770
+1695275736920	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:56761/devtools/browser/186d8b0a-314a-4d1f-b2ec-77562f463857
+JavaScript error: , line 0: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+1695275748128	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:203:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:429:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:178:31
+1695275756554	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:203:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:429:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:178:31
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://phptravels.net."
+1695275770053	Marionette	INFO	Stopped listening on port 56770
+JavaScript warning: https://code.jquery.com/jquery-3.6.1.min.js, line 2: Script terminated by timeout at:
+@https://code.jquery.com/jquery-3.6.1.min.js:2:66361
+@https://code.jquery.com/jquery-3.6.1.min.js:2:220
+@https://code.jquery.com/jquery-3.6.1.min.js:2:225
+
+JavaScript error: https://phptravels.net/assets/js/select2.js, line 1: ReferenceError: jQuery is not defined
+JavaScript error: https://phptravels.net/flights/ber/dxb/oneway/economy/01-12-2023/1/0/0, line 244: ReferenceError: $ is not defined
+JavaScript error: https://phptravels.net/assets/js/plugins/ion.rangeSlider.min.js, line 2: ReferenceError: jQuery is not defined
+JavaScript error: https://phptravels.net/flights/ber/dxb/oneway/economy/01-12-2023/1/0/0, line 1002: ReferenceError: $ is not defined
+JavaScript error: https://phptravels.net/flights/ber/dxb/oneway/economy/01-12-2023/1/0/0, line 1129: ReferenceError: $ is not defined
+Dynamically enable window occlusion 1
+console.error: services.settings: 
+  Message: NetworkError: Network error: TypeError: NetworkError: Network request failed
+  Stack:
+    APIError@resource://services-settings/RemoteSettingsClient.sys.mjs:107:1
+NetworkError@resource://services-settings/RemoteSettingsClient.sys.mjs:111:5
+_adjustedError@resource://services-settings/RemoteSettingsClient.sys.mjs:907:14
+maybeSync@resource://services-settings/RemoteSettingsClient.sys.mjs:812:38
+
+!!! error running onStopped callback: TypeError: callback is not a function
+console.error: (new AbortError("IndexedDB: main/cookie-banner-rules-list getLastModified() IndexedDB:  execute() A request was aborted, for example through a call to IDBTransaction.abort.", "resource://services-settings/IDBHelpers.sys.mjs", 16))
+console.error: (new Error("Data is not ready.", "resource://gre/modules/JSONFile.sys.mjs", 178))
+1695276336391	geckodriver	INFO	Listening on 127.0.0.1:57133
+1695276339433	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57134" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Ioana\\AppData\\Local\\Temp\\rust_mozprofilePpq7En"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695276340663	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695276340875	Marionette	INFO	Listening on port 57146
+WebDriver BiDi listening on ws://127.0.0.1:57134
+Read port: 57146
+1695276341391	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:57134/devtools/browser/61cf99a4-c486-4b89-b760-ae8220bca4b4
+JavaScript error: , line 0: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+1695276356890	Marionette	INFO	Stopped listening on port 57146
+Dynamically enable window occlusion 1
+!!! error running onStopped callback: TypeError: callback is not a function
+1695276396947	geckodriver	INFO	Listening on 127.0.0.1:57237
+1695276399985	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57238" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Ioana\\AppData\\Local\\Temp\\rust_mozprofileYsD3pI"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695276400802	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695276400929	Marionette	INFO	Listening on port 57249
+WebDriver BiDi listening on ws://127.0.0.1:57238
+Read port: 57249
+1695276401419	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:57238/devtools/browser/6e90d4fb-dcf2-4e60-a111-b0c5bd8bd891
+JavaScript error: , line 0: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+1695276411176	Marionette	INFO	Stopped listening on port 57249
+JavaScript warning: https://phptravels.net/assets/js/app.js, line 793: Script terminated by timeout at:
+removeRipple/</<@https://phptravels.net/assets/js/app.js:793:597
+
+Dynamically enable window occlusion 1
+1695276429054	geckodriver	INFO	Listening on 127.0.0.1:57324
+1695276432118	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57325" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Ioana\\AppData\\Local\\Temp\\rust_mozprofilejq5EZy"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695276432908	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695276433032	Marionette	INFO	Listening on port 57334
+WebDriver BiDi listening on ws://127.0.0.1:57325
+Read port: 57334
+1695276433584	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:57325/devtools/browser/09b20bc4-ff24-4a9e-93ce-1d9e30cdfa4f
+JavaScript error: , line 0: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+1695276443122	Marionette	INFO	Stopped listening on port 57334
+JavaScript warning: https://phptravels.net/assets/js/app.js, line 793: Script terminated by timeout at:
+removeRipple/</<@https://phptravels.net/assets/js/app.js:793:597
+
+Dynamically enable window occlusion 1
+1695276530437	geckodriver	INFO	Listening on 127.0.0.1:57438
+1695276533487	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57439" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Ioana\\AppData\\Local\\Temp\\rust_mozprofile3pV4iA"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695276534289	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695276534411	Marionette	INFO	Listening on port 57447
+WebDriver BiDi listening on ws://127.0.0.1:57439
+Read port: 57447
+1695276534843	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:57439/devtools/browser/f8c072c0-8086-4b66-95a1-63ca086048e0
+JavaScript error: , line 0: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+1695276545244	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:203:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:429:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:178:31
+1695276545457	Marionette	INFO	Stopped listening on port 57447
+JavaScript warning: https://phptravels.net/assets/js/app.js, line 793: Script terminated by timeout at:
+removeRipple/</<@https://phptravels.net/assets/js/app.js:793:597
+
+Dynamically enable window occlusion 1
+1695276557560	geckodriver	INFO	Listening on 127.0.0.1:57524
+1695276560621	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57525" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Ioana\\AppData\\Local\\Temp\\rust_mozprofilezRTVGW"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695276561398	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695276561525	Marionette	INFO	Listening on port 57533
+WebDriver BiDi listening on ws://127.0.0.1:57525
+Read port: 57533
+1695276561951	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:57525/devtools/browser/26c29cde-cb51-4eb2-ab04-62545b319e80
+JavaScript error: , line 0: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+1695276571812	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:203:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:429:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:178:31
+1695276577173	Marionette	INFO	Stopped listening on port 57533
+Dynamically enable window occlusion 1
+1695276586910	geckodriver	INFO	Listening on 127.0.0.1:57604
+1695276589982	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57605" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Ioana\\AppData\\Local\\Temp\\rust_mozprofileRBIS6h"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695276590838	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695276590989	Marionette	INFO	Listening on port 57614
+WebDriver BiDi listening on ws://127.0.0.1:57605
+Read port: 57614
+1695276591575	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:57605/devtools/browser/141135e6-1e41-43a6-b8f3-0f197df41ed9
+JavaScript error: , line 0: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+1695276601537	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:203:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:429:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:178:31
+1695276601854	Marionette	INFO	Stopped listening on port 57614
+JavaScript warning: https://phptravels.net/assets/js/app.js, line 793: Script terminated by timeout at:
+removeRipple/</<@https://phptravels.net/assets/js/app.js:793:597
+
+Dynamically enable window occlusion 1
+1695276616746	geckodriver	INFO	Listening on 127.0.0.1:57688
+1695276619789	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57689" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Ioana\\AppData\\Local\\Temp\\rust_mozprofileAyWEbm"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695276620573	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695276620731	Marionette	INFO	Listening on port 57698
+WebDriver BiDi listening on ws://127.0.0.1:57689
+Read port: 57698
+1695276621149	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:57689/devtools/browser/78e58db7-56cf-4b02-85ab-aff8cf8443f0
+JavaScript error: , line 0: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+1695276631181	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:203:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:429:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:178:31
+1695276633529	Marionette	INFO	Stopped listening on port 57698
+Dynamically enable window occlusion 1
+!!! error running onStopped callback: TypeError: callback is not a function
+1695276867135	geckodriver	INFO	Listening on 127.0.0.1:57885
+1695276870193	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57886" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Ioana\\AppData\\Local\\Temp\\rust_mozprofiledZrRhm"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695276874167	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695276874363	Marionette	INFO	Listening on port 57896
+WebDriver BiDi listening on ws://127.0.0.1:57886
+Read port: 57896
+1695276875445	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:57886/devtools/browser/ab518c78-a319-4194-ae1d-39ab44ea979e
+JavaScript error: , line 0: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+1695276895018	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:203:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:429:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:178:31
+1695276901162	Marionette	INFO	Stopped listening on port 57896
+Dynamically enable window occlusion 1
+!!! error running onStopped callback: TypeError: callback is not a function
+1695276936369	geckodriver	INFO	Listening on 127.0.0.1:58002
+1695276939414	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58003" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Ioana\\AppData\\Local\\Temp\\rust_mozprofileqg7rzj"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695276940212	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695276940350	Marionette	INFO	Listening on port 58012
+WebDriver BiDi listening on ws://127.0.0.1:58003
+Read port: 58012
+1695276940806	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:58003/devtools/browser/d712e73e-5d82-426e-ac10-b63b071c2a95
+JavaScript error: , line 0: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+1695276951195	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:203:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:429:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:178:31
+1695276952518	Marionette	INFO	Stopped listening on port 58012
+Dynamically enable window occlusion 1
+1695276973879	geckodriver	INFO	Listening on 127.0.0.1:58089
+1695276976937	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58090" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Ioana\\AppData\\Local\\Temp\\rust_mozprofilecQ080l"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695276977754	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695276977875	Marionette	INFO	Listening on port 58100
+WebDriver BiDi listening on ws://127.0.0.1:58090
+Read port: 58100
+1695276978299	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:58090/devtools/browser/49497703-bdc6-42a5-9b0f-8e40003e5266
+JavaScript error: , line 0: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+1695276988468	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:203:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:429:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:178:31
+1695276990879	Marionette	INFO	Stopped listening on port 58100
+Dynamically enable window occlusion 1
+1695277008656	geckodriver	INFO	Listening on 127.0.0.1:58179
+1695277011712	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58180" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Ioana\\AppData\\Local\\Temp\\rust_mozprofileD5opPF"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695277012536	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695277012666	Marionette	INFO	Listening on port 58190
+WebDriver BiDi listening on ws://127.0.0.1:58180
+Read port: 58190
+1695277013095	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:58180/devtools/browser/dda9df8e-9ef6-4aef-af67-387d782f0977
+JavaScript error: , line 0: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+1695277023185	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:203:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:429:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:178:31
+1695277025528	Marionette	INFO	Stopped listening on port 58190
+Dynamically enable window occlusion 1
+1695277043149	geckodriver	INFO	Listening on 127.0.0.1:58268
+1695277046202	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58269" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Ioana\\AppData\\Local\\Temp\\rust_mozprofileA6D3tk"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695277047089	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695277047213	Marionette	INFO	Listening on port 58278
+WebDriver BiDi listening on ws://127.0.0.1:58269
+Read port: 58278
+1695277047629	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:58269/devtools/browser/c58453db-01d1-4798-83d5-ea3dfb059dff
+JavaScript error: , line 0: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+1695277057919	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:203:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:429:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:178:31
+1695277060288	Marionette	INFO	Stopped listening on port 58278
+Dynamically enable window occlusion 1
+1695277358583	geckodriver	INFO	Listening on 127.0.0.1:58502
+1695277361654	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58503" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Ioana\\AppData\\Local\\Temp\\rust_mozprofilefIAKk8"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695277362343	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695277362468	Marionette	INFO	Listening on port 58512
+WebDriver BiDi listening on ws://127.0.0.1:58503
+Read port: 58512
+1695277362967	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:58503/devtools/browser/185ba774-9554-4675-81d4-d3a3391ec3c3
+JavaScript error: , line 0: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+1695277374173	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:203:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:429:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:178:31
+1695277376603	Marionette	INFO	Stopped listening on port 58512
+Dynamically enable window occlusion 1
+1695277430281	geckodriver	INFO	Listening on 127.0.0.1:58620
+1695277433306	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58621" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Ioana\\AppData\\Local\\Temp\\rust_mozprofileLh9fLU"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695277434223	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695277434357	Marionette	INFO	Listening on port 58630
+WebDriver BiDi listening on ws://127.0.0.1:58621
+Read port: 58630
+1695277434809	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:58621/devtools/browser/4619ca4b-ec7f-4ed1-b1d8-6ba5100e23ea
+JavaScript error: , line 0: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+1695277445584	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:203:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:429:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:178:31
+1695277448104	Marionette	INFO	Stopped listening on port 58630
+Dynamically enable window occlusion 1
+1695277515175	geckodriver	INFO	Listening on 127.0.0.1:58738
+1695277518236	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58739" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Ioana\\AppData\\Local\\Temp\\rust_mozprofilepCoJhh"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695277519057	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695277519185	Marionette	INFO	Listening on port 58748
+WebDriver BiDi listening on ws://127.0.0.1:58739
+Read port: 58748
+1695277519550	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:58739/devtools/browser/3766e035-26e1-4da7-83f8-581eaaa64873
+JavaScript error: , line 0: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+1695277530050	Marionette	INFO	Stopped listening on port 58748
+JavaScript warning: https://phptravels.net/assets/js/app.js, line 793: Script terminated by timeout at:
+removeRipple/</<@https://phptravels.net/assets/js/app.js:793:597
+
+Dynamically enable window occlusion 1
+1695277538002	geckodriver	INFO	Listening on 127.0.0.1:58816
+1695277541058	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58817" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Ioana\\AppData\\Local\\Temp\\rust_mozprofileftg9iZ"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695277541882	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695277542005	Marionette	INFO	Listening on port 58825
+WebDriver BiDi listening on ws://127.0.0.1:58817
+Read port: 58825
+1695277542427	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:58817/devtools/browser/76823875-57d4-468f-a5e8-fc99265bf0e3
+JavaScript error: , line 0: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+1695277553972	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:203:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:429:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:178:31
+1695277556419	Marionette	INFO	Stopped listening on port 58825
+Dynamically enable window occlusion 1
+1695277761254	geckodriver	INFO	Listening on 127.0.0.1:58993
+1695277764292	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58994" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Ioana\\AppData\\Local\\Temp\\rust_mozprofileQnSoe5"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695277765175	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695277765296	Marionette	INFO	Listening on port 59003
+WebDriver BiDi listening on ws://127.0.0.1:58994
+Read port: 59003
+1695277765734	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:58994/devtools/browser/292a1273-7ecf-44b4-b3bf-71674dec7599
+JavaScript error: , line 0: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+1695277777245	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:203:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:429:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:178:31
+1695277779670	Marionette	INFO	Stopped listening on port 59003
+Dynamically enable window occlusion 1
+1695277800348	geckodriver	INFO	Listening on 127.0.0.1:59080
+1695277803409	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59081" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Ioana\\AppData\\Local\\Temp\\rust_mozprofileGLrnDj"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695277804211	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695277804341	Marionette	INFO	Listening on port 59090
+WebDriver BiDi listening on ws://127.0.0.1:59081
+Read port: 59090
+1695277804675	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:59081/devtools/browser/77371be8-b9ad-48a9-bd4d-0c40d5f86851
+JavaScript error: , line 0: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+1695277816156	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:203:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:429:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:178:31
+1695277820562	Marionette	INFO	Stopped listening on port 59090
+Dynamically enable window occlusion 1
+1695277929940	geckodriver	INFO	Listening on 127.0.0.1:59206
+1695277932994	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59207" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Ioana\\AppData\\Local\\Temp\\rust_mozprofilewCbJGw"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695277933685	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695277933806	Marionette	INFO	Listening on port 59216
+WebDriver BiDi listening on ws://127.0.0.1:59207
+Read port: 59216
+1695277934241	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:59207/devtools/browser/7928af1e-ae6a-4638-b142-9be0675c0a74
+JavaScript error: , line 0: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+1695277950500	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:203:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:429:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:178:31
+1695277952940	Marionette	INFO	Stopped listening on port 59216
+Dynamically enable window occlusion 1
+1695278090909	geckodriver	INFO	Listening on 127.0.0.1:59379
+1695278093974	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59380" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Ioana\\AppData\\Local\\Temp\\rust_mozprofileeG10HQ"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695278094988	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695278095186	Marionette	INFO	Listening on port 59396
+WebDriver BiDi listening on ws://127.0.0.1:59380
+Read port: 59396
+1695278095900	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:59380/devtools/browser/097db672-b44f-4df7-a497-306ea58dc2d8
+JavaScript error: , line 0: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: , line 0: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+1695278111260	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:203:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:429:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:178:31
+1695278113626	Marionette	INFO	Stopped listening on port 59396
+Dynamically enable window occlusion 1
+1695278167395	geckodriver	INFO	Listening on 127.0.0.1:59513
+1695278170454	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59514" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Ioana\\AppData\\Local\\Temp\\rust_mozprofilezDxe8p"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695278171379	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695278171520	Marionette	INFO	Listening on port 59526
+WebDriver BiDi listening on ws://127.0.0.1:59514
+Read port: 59526
+1695278171910	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:59514/devtools/browser/665f3b49-d78a-4a73-b597-b8e9a1fbad12
+JavaScript error: , line 0: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+1695278185123	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:203:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:429:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:178:31
+1695278193386	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:203:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:429:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:178:31
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://phptravels.net."
+JavaScript error: , line 0: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+1695278209083	Marionette	INFO	Stopped listening on port 59526
+JavaScript warning: https://code.jquery.com/jquery-3.6.1.min.js, line 2: Script terminated by timeout at:
+S.fn[o]@https://code.jquery.com/jquery-3.6.1.min.js:2:87553
+drawHandles@https://phptravels.net/assets/js/plugins/ion.rangeSlider.min.js:2:24748
+updateScene@https://phptravels.net/assets/js/plugins/ion.rangeSlider.min.js:2:24540
+
+Dynamically enable window occlusion 1
+console.error: services.settings: 
+  security-state/intermediates Signature failed  Error: Shutdown, aborting read-only worker requests.
+console.error: services.settings: 
+  Message: Error: Shutdown, aborting read-only worker requests.
+  Stack:
+    _abortCancelableRequests@resource://services-settings/RemoteSettingsWorker.sys.mjs:131:19
+@resource://services-settings/RemoteSettingsWorker.sys.mjs:207:28
+trigger@resource://gre/modules/AsyncShutdown.sys.mjs:758:23
+_wait@resource://gre/modules/AsyncShutdown.sys.mjs:918:15
+wait@resource://gre/modules/AsyncShutdown.sys.mjs:899:34
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:558:10
+
+console.warn: services.settings: security-state/onecrl sync interrupted by shutdown
+console.error: (new Error("Shutdown, aborting read-only worker requests.", "resource://services-settings/RemoteSettingsWorker.sys.mjs", 131))
+1695278267431	geckodriver	INFO	Listening on 127.0.0.1:59637
+1695278270481	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59638" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Ioana\\AppData\\Local\\Temp\\rust_mozprofileR2S2xR"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695278271910	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695278272154	Marionette	INFO	Listening on port 59648
+WebDriver BiDi listening on ws://127.0.0.1:59638
+Read port: 59648
+Read port: 59648
+1695278274164	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:59638/devtools/browser/9088fee4-0562-4081-a980-2ca1620e9486
+JavaScript error: , line 0: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: , line 0: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+1695278294249	Marionette	INFO	Stopped listening on port 59648
+JavaScript warning: https://code.jquery.com/jquery-3.6.1.min.js, line 2: Script terminated by timeout at:
+S@https://code.jquery.com/jquery-3.6.1.min.js:2:1044
+@https://phptravels.net/hotels/-search-by-city/01-12-2023/02-12-2023/1/2/0/RO:1333:2
+
+Dynamically enable window occlusion 1
+1695278384295	geckodriver	INFO	Listening on 127.0.0.1:59773
+1695278387325	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59774" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Ioana\\AppData\\Local\\Temp\\rust_mozprofileHDPXU6"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695278388302	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695278388558	Marionette	INFO	Listening on port 59783
+Read port: 59783
+WebDriver BiDi listening on ws://127.0.0.1:59774
+1695278388810	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:59774/devtools/browser/17e8f987-250c-43ce-9137-1e008bd2b608
+JavaScript error: , line 0: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: , line 0: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+1695278405227	Marionette	INFO	Stopped listening on port 59783
+JavaScript warning: https://code.jquery.com/jquery-3.6.1.min.js, line 2: Script terminated by timeout at:
+S@https://code.jquery.com/jquery-3.6.1.min.js:2:1044
+@https://phptravels.net/hotels/-search-by-city/01-12-2023/02-12-2023/1/2/0/RO:1333:2
+
+Dynamically enable window occlusion 1
+1695278515058	geckodriver	INFO	Listening on 127.0.0.1:59957
+1695278518142	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59958" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Ioana\\AppData\\Local\\Temp\\rust_mozprofile4mXzKI"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695278519175	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695278519450	Marionette	INFO	Listening on port 59967
+WebDriver BiDi listening on ws://127.0.0.1:59958
+Read port: 59967
+1695278521222	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:59958/devtools/browser/ffddb899-5ff9-42e5-9633-a14029edcd76
+JavaScript error: , line 0: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+1695278537679	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:203:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:429:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:178:31
+1695278551174	Marionette	INFO	Stopped listening on port 59967
+Dynamically enable window occlusion 1
+console.warn: services.settings: main/language-dictionaries sync interrupted by shutdown
+console.warn: services.settings: main/password-recipes sync interrupted by shutdown
+console.warn: services.settings: main/password-rules sync interrupted by shutdown
+console.warn: services.settings: main/translations-identification-models sync interrupted by shutdown
+console.warn: services.settings: main/translations-wasm sync interrupted by shutdown
+console.warn: services.settings: main/search-config sync interrupted by shutdown
+console.warn: services.settings: main/translations-models sync interrupted by shutdown
+console.warn: services.settings: main/url-classifier-skip-urls sync interrupted by shutdown
+console.warn: services.settings: main/addons-manager-settings sync interrupted by shutdown
+console.warn: services.settings: main/partitioning-exempt-urls sync interrupted by shutdown
+console.warn: services.settings: main/search-telemetry-v2 sync interrupted by shutdown
+1695278568899	geckodriver	INFO	Listening on 127.0.0.1:60066
+1695278571956	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60067" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Ioana\\AppData\\Local\\Temp\\rust_mozprofileG00pfP"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695278572757	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695278572896	Marionette	INFO	Listening on port 60078
+WebDriver BiDi listening on ws://127.0.0.1:60067
+Read port: 60078
+1695278573349	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:60067/devtools/browser/61eb6e97-9b46-4879-a50b-6adbd659e5de
+JavaScript error: , line 0: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+1695278584307	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:203:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:429:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:178:31
+1695278597302	Marionette	INFO	Stopped listening on port 60078
+JavaScript warning: https://phptravels.net/assets/js/plugins/ion.rangeSlider.min.js, line 2: Script terminated by timeout at:
+@https://phptravels.net/assets/js/plugins/ion.rangeSlider.min.js:2:329
+@https://phptravels.net/assets/js/plugins/ion.rangeSlider.min.js:2:164
+@https://phptravels.net/assets/js/plugins/ion.rangeSlider.min.js:2:247
+
+Dynamically enable window occlusion 1
+JavaScript error: https://phptravels.net/hotels/dubai/01-12-2023/02-12-2023/1/2/0/RO, line 13553: TypeError: $rangeA.ionRangeSlider is not a function
+1695278628986	geckodriver	INFO	Listening on 127.0.0.1:60174
+1695278632049	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60175" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Ioana\\AppData\\Local\\Temp\\rust_mozprofileJlhlM8"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695278633124	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695278633268	Marionette	INFO	Listening on port 60184
+WebDriver BiDi listening on ws://127.0.0.1:60175
+Read port: 60184
+1695278633792	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:60175/devtools/browser/774c2250-c1ea-4a2a-b0d2-1c4a362ab1d9
+JavaScript error: , line 0: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+1695278644087	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:203:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:429:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:178:31
+1695278657516	Marionette	INFO	Stopped listening on port 60184
+JavaScript warning: https://code.jquery.com/jquery-3.6.1.min.js, line 2: Script terminated by timeout at:
+ce@https://code.jquery.com/jquery-3.6.1.min.js:2:7430
+se.setDocument@https://code.jquery.com/jquery-3.6.1.min.js:2:10450
+d<@https://code.jquery.com/jquery-3.6.1.min.js:2:23124
+@https://code.jquery.com/jquery-3.6.1.min.js:2:23839
+@https://code.jquery.com/jquery-3.6.1.min.js:2:220
+@https://code.jquery.com/jquery-3.6.1.min.js:2:225
+
+JavaScript error: https://phptravels.net/assets/js/select2.js, line 1: ReferenceError: jQuery is not defined
+JavaScript error: https://phptravels.net/hotels/dubai/01-12-2023/02-12-2023/1/2/0/RO, line 244: ReferenceError: $ is not defined
+JavaScript error: https://phptravels.net/assets/js/plugins/ion.rangeSlider.min.js, line 2: ReferenceError: jQuery is not defined
+JavaScript error: https://phptravels.net/hotels/dubai/01-12-2023/02-12-2023/1/2/0/RO, line 810: ReferenceError: $ is not defined
+JavaScript error: https://phptravels.net/hotels/dubai/01-12-2023/02-12-2023/1/2/0/RO, line 914: ReferenceError: $ is not defined
+Dynamically enable window occlusion 1
+JavaScript error: https://phptravels.net/hotels/dubai/01-12-2023/02-12-2023/1/2/0/RO, line 13547: ReferenceError: $ is not defined
+JavaScript error: https://phptravels.net/hotels/dubai/01-12-2023/02-12-2023/1/2/0/RO, line 13793: ReferenceError: $ is not defined
+1695278715637	geckodriver	INFO	Listening on 127.0.0.1:60295
+1695278718689	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60296" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Ioana\\AppData\\Local\\Temp\\rust_mozprofileCO14Dn"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695278720557	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695278720683	Marionette	INFO	Listening on port 60306
+WebDriver BiDi listening on ws://127.0.0.1:60296
+Read port: 60306
+1695278721153	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:60296/devtools/browser/f78f0b3d-d8c6-49ed-ba36-c7a909ac5cee
+JavaScript error: , line 0: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+1695278731567	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:203:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:429:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:178:31
+1695278739867	Marionette	INFO	Stopped listening on port 60306
+Dynamically enable window occlusion 1
+1695278756175	geckodriver	INFO	Listening on 127.0.0.1:60387
+1695278759206	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60388" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Ioana\\AppData\\Local\\Temp\\rust_mozprofileq8vd40"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695278759985	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695278760119	Marionette	INFO	Listening on port 60397
+WebDriver BiDi listening on ws://127.0.0.1:60388
+Read port: 60397
+1695278760525	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:60388/devtools/browser/713aa1b9-b981-440e-851b-0ab7b934ec35
+JavaScript error: , line 0: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+1695278770762	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:203:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:429:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:178:31
+1695278784114	Marionette	INFO	Stopped listening on port 60397
+Dynamically enable window occlusion 1
+1695278872645	geckodriver	INFO	Listening on 127.0.0.1:60530
+1695278875696	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60531" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Ioana\\AppData\\Local\\Temp\\rust_mozprofilepJCue9"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695278876377	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695278876497	Marionette	INFO	Listening on port 60541
+WebDriver BiDi listening on ws://127.0.0.1:60531
+Read port: 60541
+1695278876963	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:60531/devtools/browser/d691f9cf-e1b4-4e80-ad59-6703c7b5f461
+JavaScript error: , line 0: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+1695278889366	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:203:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:429:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:178:31
+1695278902740	Marionette	INFO	Stopped listening on port 60541
+JavaScript warning: https://code.jquery.com/jquery-3.6.1.min.js, line 2: Script terminated by timeout at:
+S@https://code.jquery.com/jquery-3.6.1.min.js:2:1044
+@https://phptravels.net/hotels/dubai/01-12-2023/02-12-2023/1/2/0/RO:914:17
+
+Dynamically enable window occlusion 1
+1695278944258	geckodriver	INFO	Listening on 127.0.0.1:60647
+1695278947309	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60648" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Ioana\\AppData\\Local\\Temp\\rust_mozprofileass8YZ"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695278948575	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695278948772	Marionette	INFO	Listening on port 60660
+WebDriver BiDi listening on ws://127.0.0.1:60648
+Read port: 60660
+1695278949193	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:60648/devtools/browser/9e1c3278-5c09-408a-8069-0c9373466425
+JavaScript error: , line 0: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+1695278958823	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:203:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:429:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:178:31
+1695278971744	Marionette	INFO	Stopped listening on port 60660
+Dynamically enable window occlusion 1
+1695280043637	geckodriver	INFO	Listening on 127.0.0.1:62245
+1695280046711	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62246" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Ioana\\AppData\\Local\\Temp\\rust_mozprofilehGszEb"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695280047639	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695280047772	Marionette	INFO	Listening on port 62255
+WebDriver BiDi listening on ws://127.0.0.1:62246
+Read port: 62255
+1695280048313	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:62246/devtools/browser/f4e1b3e7-177c-4997-93de-f92c06d9b3de
+JavaScript error: , line 0: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://phptravels.net."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://phptravels.net."
+1695280057004	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1695280060788	Marionette	INFO	Stopped listening on port 62255
+JavaScript error: , line 0: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+Dynamically enable window occlusion 1
+1695280278898	geckodriver	INFO	Listening on 127.0.0.1:62427
+1695280281985	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62428" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Ioana\\AppData\\Local\\Temp\\rust_mozprofileAsXbIK"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695280282942	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695280283108	Marionette	INFO	Listening on port 62437
+WebDriver BiDi listening on ws://127.0.0.1:62428
+Read port: 62437
+1695280283742	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:62428/devtools/browser/d62811a3-f5b1-45f3-804e-76154b0c85e0
+JavaScript error: , line 0: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://phptravels.net."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://phptravels.net."
+1695280292624	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: , line 0: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+1695280296525	Marionette	INFO	Stopped listening on port 62437
+JavaScript error: , line 0: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+Dynamically enable window occlusion 1
+1695280304885	geckodriver	INFO	Listening on 127.0.0.1:62496
+1695280307947	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62497" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Ioana\\AppData\\Local\\Temp\\rust_mozprofilep6743D"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695280308826	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695280308962	Marionette	INFO	Listening on port 62506
+WebDriver BiDi listening on ws://127.0.0.1:62497
+Read port: 62506
+1695280309421	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:62497/devtools/browser/aeb8319f-a02c-4fa1-98a1-3a65986ad450
+JavaScript error: , line 0: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://phptravels.net."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://phptravels.net."
+1695280316922	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: , line 0: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+1695280321950	Marionette	INFO	Stopped listening on port 62506
+Dynamically enable window occlusion 1
+1695280326097	geckodriver	INFO	Listening on 127.0.0.1:62559
+1695280329133	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62560" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Ioana\\AppData\\Local\\Temp\\rust_mozprofilejV5Tj6"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695280329828	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695280330048	Marionette	INFO	Listening on port 62568
+WebDriver BiDi listening on ws://127.0.0.1:62560
+Read port: 62568
+1695280330283	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:62560/devtools/browser/ef0dda9f-4342-4ef0-bef8-25f83a0820e7
+JavaScript error: , line 0: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://phptravels.net."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://phptravels.net."
+1695280338878	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: , line 0: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+1695280342783	Marionette	INFO	Stopped listening on port 62568
+JavaScript error: , line 0: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+Dynamically enable window occlusion 1
+1695280346910	geckodriver	INFO	Listening on 127.0.0.1:62624
+1695280349945	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62625" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Ioana\\AppData\\Local\\Temp\\rust_mozprofileggHm4f"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695280350642	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695280350764	Marionette	INFO	Listening on port 62634
+WebDriver BiDi listening on ws://127.0.0.1:62625
+Read port: 62634
+1695280351213	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:62625/devtools/browser/f0bdf2ed-f264-4fac-9c1f-b19c1ceafb3f
+JavaScript error: , line 0: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://phptravels.net."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://phptravels.net."
+1695280359409	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: , line 0: AbortError: The operation was aborted. 
+JavaScript error: , line 0: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+1695280365375	Marionette	INFO	Stopped listening on port 62634
+Dynamically enable window occlusion 1
+1695280370288	geckodriver	INFO	Listening on 127.0.0.1:62689
+1695280373330	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62690" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Ioana\\AppData\\Local\\Temp\\rust_mozprofileKBfBzc"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695280374122	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695280374251	Marionette	INFO	Listening on port 62699
+WebDriver BiDi listening on ws://127.0.0.1:62690
+Read port: 62699
+1695280374608	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:62690/devtools/browser/66df00fe-9e8b-4ba8-aabb-aabd17a5da06
+JavaScript error: , line 0: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://phptravels.net."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://phptravels.net."
+1695280382603	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1695280386204	Marionette	INFO	Stopped listening on port 62699
+JavaScript error: , line 0: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+Dynamically enable window occlusion 1
+1695280465047	geckodriver	INFO	Listening on 127.0.0.1:62799
+1695280468101	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62800" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Ioana\\AppData\\Local\\Temp\\rust_mozprofile54UFiV"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695280468879	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695280469006	Marionette	INFO	Listening on port 62808
+WebDriver BiDi listening on ws://127.0.0.1:62800
+Read port: 62808
+1695280469431	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:62800/devtools/browser/6307984d-8eeb-47cd-902e-90ac6c28128e
+JavaScript error: , line 0: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://phptravels.net."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://phptravels.net."
+1695280476147	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1695280479920	Marionette	INFO	Stopped listening on port 62808
+JavaScript error: , line 0: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+Dynamically enable window occlusion 1
+1695280490500	geckodriver	INFO	Listening on 127.0.0.1:62855
+1695280493542	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62856" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Ioana\\AppData\\Local\\Temp\\rust_mozprofilekrYSl1"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695280494061	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695280494182	Marionette	INFO	Listening on port 62863
+WebDriver BiDi listening on ws://127.0.0.1:62856
+Read port: 62863
+1695280494511	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:62856/devtools/browser/9b153980-bbf7-4e01-8a15-d3fdc7a44445
+JavaScript error: , line 0: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://phptravels.net."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://phptravels.net."
+1695280501029	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: , line 0: AbortError: The operation was aborted. 
+1695280503960	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1695280509514	Marionette	INFO	Stopped listening on port 62863
+JavaScript warning: https://code.jquery.com/jquery-3.6.1.min.js, line 2: Script terminated by timeout at:
+xe@https://code.jquery.com/jquery-3.6.1.min.js:2:39239
+He@https://code.jquery.com/jquery-3.6.1.min.js:2:47899
+append@https://code.jquery.com/jquery-3.6.1.min.js:2:49727
+success@https://phptravels.net/:3406:57
+c@https://code.jquery.com/jquery-3.6.1.min.js:2:28327
+fireWith@https://code.jquery.com/jquery-3.6.1.min.js:2:29072
+l@https://code.jquery.com/jquery-3.6.1.min.js:2:80045
+send/o/<@https://code.jquery.com/jquery-3.6.1.min.js:2:82499
+
+JavaScript error: , line 0: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+Dynamically enable window occlusion 1
+1695280513911	geckodriver	INFO	Listening on 127.0.0.1:62933
+1695280516944	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62934" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Ioana\\AppData\\Local\\Temp\\rust_mozprofile4lSfoN"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695280517463	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695280517595	Marionette	INFO	Listening on port 62941
+WebDriver BiDi listening on ws://127.0.0.1:62934
+Read port: 62941
+1695280517955	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:62934/devtools/browser/98170718-9313-46b5-bab5-92903b7f3e35
+JavaScript error: , line 0: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://phptravels.net."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://phptravels.net."
+1695280524528	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1695280528155	Marionette	INFO	Stopped listening on port 62941
+JavaScript error: , line 0: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+Dynamically enable window occlusion 1
+1695280532152	geckodriver	INFO	Listening on 127.0.0.1:62990
+1695280535221	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62991" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Ioana\\AppData\\Local\\Temp\\rust_mozprofilevJu3OE"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695280535725	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695280535850	Marionette	INFO	Listening on port 62998
+WebDriver BiDi listening on ws://127.0.0.1:62991
+Read port: 62998
+1695280536184	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:62991/devtools/browser/a096214d-175d-4057-b614-7211cb0922ef
+JavaScript error: , line 0: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://phptravels.net."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://phptravels.net."
+1695280542743	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: , line 0: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: , line 0: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+1695280549116	Marionette	INFO	Stopped listening on port 62998
+JavaScript warning: https://code.jquery.com/jquery-3.6.1.min.js, line 2: Script terminated by timeout at:
+S.fn.init@https://code.jquery.com/jquery-3.6.1.min.js:2:25491
+S@https://code.jquery.com/jquery-3.6.1.min.js:2:1051
+@https://phptravels.net/profile:2342:2
+
+Dynamically enable window occlusion 1
+1695280553288	geckodriver	INFO	Listening on 127.0.0.1:63045
+1695280556299	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63046" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Ioana\\AppData\\Local\\Temp\\rust_mozprofilerij2ha"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695280557039	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695280557181	Marionette	INFO	Listening on port 63053
+WebDriver BiDi listening on ws://127.0.0.1:63046
+Read port: 63053
+1695280557393	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:63046/devtools/browser/dc6c8810-79cd-483f-b63b-9c616c1f76a9
+JavaScript error: , line 0: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://phptravels.net."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://phptravels.net."
+1695280565578	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1695280569294	Marionette	INFO	Stopped listening on port 63053
+JavaScript error: , line 0: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+Dynamically enable window occlusion 1
+1695311815834	geckodriver	INFO	Listening on 127.0.0.1:61805
+1695311818874	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61806" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Ioana\\AppData\\Local\\Temp\\rust_mozprofilekQBxmf"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695311819407	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695311819665	Marionette	INFO	Listening on port 61813
+WebDriver BiDi listening on ws://127.0.0.1:61806
+Read port: 61813
+1695311820661	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:61806/devtools/browser/3b36f76a-b55a-4c95-b842-67fb44f022e8
+JavaScript error: , line 0: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+1695311831704	Marionette	INFO	Stopped listening on port 61813
+JavaScript warning: https://code.jquery.com/jquery-3.6.1.min.js, line 2: Script terminated by timeout at:
+add/y.handle@https://code.jquery.com/jquery-3.6.1.min.js:2:40971
+
+Dynamically enable window occlusion 1
+1695312039384	geckodriver	INFO	Listening on 127.0.0.1:61879
+1695312042453	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61880" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Ioana\\AppData\\Local\\Temp\\rust_mozprofilevTsxw8"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695312043241	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695312043364	Marionette	INFO	Listening on port 61887
+WebDriver BiDi listening on ws://127.0.0.1:61880
+Read port: 61887
+1695312044417	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:61880/devtools/browser/cf2fa680-25bf-4620-8eb3-f060072903c0
+1695312065166	Marionette	INFO	Stopped listening on port 61887
+JavaScript error: , line 0: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+Dynamically enable window occlusion 1
+1695312073076	geckodriver	INFO	Listening on 127.0.0.1:61952
+1695312076127	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61953" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Ioana\\AppData\\Local\\Temp\\rust_mozprofileOPAjL3"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695312076620	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695312076735	Marionette	INFO	Listening on port 61960
+WebDriver BiDi listening on ws://127.0.0.1:61953
+Read port: 61960
+1695312077066	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:61953/devtools/browser/5922a331-81f6-499a-a57c-8d3a916c7ae6
+JavaScript error: , line 0: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+1695312086643	Marionette	INFO	Stopped listening on port 61960
+JavaScript warning: https://phptravels.net/assets/js/app.js, line 781: Script terminated by timeout at:
+convertStyle@https://phptravels.net/assets/js/app.js:781:43
+removeRipple/<@https://phptravels.net/assets/js/app.js:793:509
+
+Dynamically enable window occlusion 1
+1695462987818	geckodriver	INFO	Listening on 127.0.0.1:56177
+1695462990882	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56178" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Ioana\\AppData\\Local\\Temp\\rust_mozprofileOrhZiK"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695462992283	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695462992659	Marionette	INFO	Listening on port 56185
+Read port: 56185
+WebDriver BiDi listening on ws://127.0.0.1:56178
+1695462993956	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:56178/devtools/browser/b017d0f9-c226-4f06-8f3a-dd0b5b0967b4
+JavaScript error: https://phptravels.net/, line 26: SyntaxError: unexpected token: identifier
+1695463005954	Marionette	INFO	Stopped listening on port 56185
+JavaScript error: , line 0: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+Dynamically enable window occlusion 1
+1695463014383	geckodriver	INFO	Listening on 127.0.0.1:56252
+1695463017423	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56253" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Ioana\\AppData\\Local\\Temp\\rust_mozprofileCfljcS"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695463018370	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695463018877	Marionette	INFO	Listening on port 56260
+WebDriver BiDi listening on ws://127.0.0.1:56253
+Read port: 56260
+1695463019262	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:56253/devtools/browser/c4016f07-4d0b-47da-8d62-f68409e9d86f
+JavaScript error: https://phptravels.net/, line 26: SyntaxError: unexpected token: identifier
+JavaScript error: , line 0: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+1695463029898	Marionette	INFO	Stopped listening on port 56260
+JavaScript warning: https://phptravels.net/assets/js/app.js, line 793: Script terminated by timeout at:
+removeRipple/</<@https://phptravels.net/assets/js/app.js:793:597
+
+Dynamically enable window occlusion 1
+1695463797141	geckodriver	INFO	Listening on 127.0.0.1:56402
+1695463800211	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56403" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Ioana\\AppData\\Local\\Temp\\rust_mozprofile80CF7W"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695463801244	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695463801553	Marionette	INFO	Listening on port 56410
+WebDriver BiDi listening on ws://127.0.0.1:56403
+Read port: 56410
+Read port: 56410
+1695463803746	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:56403/devtools/browser/2cbb6e5a-8361-4ffb-a446-e6b3a907ab7b
+JavaScript error: https://phptravels.net/login, line 26: SyntaxError: unexpected token: identifier
+JavaScript error: , line 0: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://phptravels.net."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://phptravels.net."
+1695463817604	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://phptravels.net/dashboard, line 26: SyntaxError: unexpected token: identifier
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://phptravels.net/dashboard, line 26: SyntaxError: unexpected token: identifier
+1695463822103	Marionette	INFO	Stopped listening on port 56410
+JavaScript error: , line 0: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+Dynamically enable window occlusion 1
+1695464146569	geckodriver	INFO	Listening on 127.0.0.1:56583
+1695464149647	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56584" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Ioana\\AppData\\Local\\Temp\\rust_mozprofile5GUYgW"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695464150848	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695464151159	Marionette	INFO	Listening on port 56592
+WebDriver BiDi listening on ws://127.0.0.1:56584
+Read port: 56592
+Read port: 56592
+1695464152774	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:56584/devtools/browser/fc0c05c3-8a45-4f92-ac3f-f13ce59211a1
+JavaScript error: https://phptravels.net/, line 26: SyntaxError: unexpected token: identifier
+JavaScript error: , line 0: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+1695464173859	Marionette	INFO	Stopped listening on port 56592
+JavaScript warning: https://code.jquery.com/jquery-3.6.1.min.js, line 2: Script terminated by timeout at:
+S.fx.tick@https://code.jquery.com/jquery-3.6.1.min.js:2:64685
+st@https://code.jquery.com/jquery-3.6.1.min.js:2:59098
+
+Dynamically enable window occlusion 1
+1695464215867	geckodriver	INFO	Listening on 127.0.0.1:56690
+1695464218909	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56691" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Ioana\\AppData\\Local\\Temp\\rust_mozprofile4FFBPz"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695464219696	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695464219909	Marionette	INFO	Listening on port 56702
+WebDriver BiDi listening on ws://127.0.0.1:56691
+Read port: 56702
+1695464220272	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:56691/devtools/browser/ab0eb9c7-31d8-4d2c-a227-785367235ca5
+JavaScript error: https://phptravels.net/, line 26: SyntaxError: unexpected token: identifier
+JavaScript error: , line 0: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+1695464230749	Marionette	INFO	Stopped listening on port 56702
+JavaScript warning: https://phptravels.net/assets/js/app.js, line 781: Script terminated by timeout at:
+convertStyle@https://phptravels.net/assets/js/app.js:781:43
+removeRipple/<@https://phptravels.net/assets/js/app.js:793:509
+
+Dynamically enable window occlusion 1
