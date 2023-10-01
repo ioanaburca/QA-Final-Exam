@@ -2276,3 +2276,511 @@ convertStyle@https://phptravels.net/assets/js/app.js:781:43
 removeRipple/<@https://phptravels.net/assets/js/app.js:793:509
 
 Dynamically enable window occlusion 1
+1695476812249	geckodriver	INFO	Listening on 127.0.0.1:60205
+1695476815356	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60206" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Ioana\\AppData\\Local\\Temp\\rust_mozprofileaYTO7B"
+1696152344024	geckodriver	INFO	Listening on 127.0.0.1:64181
+1696152347133	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64182" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Ioana\\AppData\\Local\\Temp\\rust_mozprofilehRzmof"
+1696152380117	geckodriver	INFO	Listening on 127.0.0.1:64246
+1696152383304	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64247" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Ioana\\AppData\\Local\\Temp\\rust_mozprofileo1oytm"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1696152384202	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1696152384340	Marionette	INFO	Listening on port 64258
+WebDriver BiDi listening on ws://127.0.0.1:64247
+Read port: 64258
+1696152384819	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:64247/devtools/browser/c3e027c9-f9fa-47b3-9c1e-5be09fa1a92e
+JavaScript error: https://phptravels.net/, line 26: SyntaxError: unexpected token: identifier
+1696152401836	Marionette	INFO	Stopped listening on port 64258
+Dynamically enable window occlusion 1
+1696152482403	geckodriver	INFO	Listening on 127.0.0.1:64369
+1696152485470	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64370" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Ioana\\AppData\\Local\\Temp\\rust_mozprofilemZoQgS"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1696152486228	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1696152486347	Marionette	INFO	Listening on port 64378
+WebDriver BiDi listening on ws://127.0.0.1:64370
+Read port: 64378
+1696152486562	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:64370/devtools/browser/3917f3cc-8fb4-4539-a10f-3128fe768b6c
+JavaScript error: https://phptravels.net/, line 26: SyntaxError: unexpected token: identifier
+1696152505807	Marionette	INFO	Stopped listening on port 64378
+Dynamically enable window occlusion 1
+1696152771400	geckodriver	INFO	Listening on 127.0.0.1:64672
+1696152774503	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64673" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Ioana\\AppData\\Local\\Temp\\rust_mozprofileaVT5cX"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1696152775902	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1696152776145	Marionette	INFO	Listening on port 64684
+WebDriver BiDi listening on ws://127.0.0.1:64673
+Read port: 64684
+Read port: 64684
+Read port: 64684
+1696152779288	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:64673/devtools/browser/de8f5487-8852-4daf-b42e-51e0b1cee35a
+JavaScript error: https://phptravels.net/, line 26: SyntaxError: unexpected token: identifier
+1696152803934	Marionette	INFO	Stopped listening on port 64684
+Dynamically enable window occlusion 1
+1696153010207	geckodriver	INFO	Listening on 127.0.0.1:64857
+1696153013253	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64858" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Ioana\\AppData\\Local\\Temp\\rust_mozprofileneApSH"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1696153014433	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1696153014619	Marionette	INFO	Listening on port 64867
+WebDriver BiDi listening on ws://127.0.0.1:64858
+Read port: 64867
+1696153015049	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:64858/devtools/browser/45c39c93-eacf-4472-8692-eece1db5a01d
+JavaScript error: https://phptravels.net/, line 26: SyntaxError: unexpected token: identifier
+1696153036000	Marionette	INFO	Stopped listening on port 64867
+Dynamically enable window occlusion 1
+1696153177183	geckodriver	INFO	Listening on 127.0.0.1:65018
+1696153180275	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65019" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Ioana\\AppData\\Local\\Temp\\rust_mozprofile56GVYT"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1696153181208	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1696153181338	Marionette	INFO	Listening on port 65028
+WebDriver BiDi listening on ws://127.0.0.1:65019
+Read port: 65028
+1696153181875	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:65019/devtools/browser/6831adc7-a1db-4a1e-82ef-c50729f0de25
+JavaScript error: https://phptravels.net/, line 30: SyntaxError: unexpected token: identifier
+1696153209743	Marionette	INFO	Stopped listening on port 65028
+Dynamically enable window occlusion 1
+1696153244973	geckodriver	INFO	Listening on 127.0.0.1:65130
+1696153248021	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65131" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Ioana\\AppData\\Local\\Temp\\rust_mozprofile38PcJs"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1696153249411	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1696153249604	Marionette	INFO	Listening on port 65142
+WebDriver BiDi listening on ws://127.0.0.1:65131
+Read port: 65142
+1696153250164	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:65131/devtools/browser/1d33d19e-7e56-4434-b4d0-435942480fbc
+JavaScript error: https://phptravels.net/, line 30: SyntaxError: unexpected token: identifier
+1696153280097	Marionette	INFO	Stopped listening on port 65142
+Dynamically enable window occlusion 1
+console.error: (new Error("Polling for changes failed: NetworkError: Network request failed.", "resource://services-settings/remote-settings.sys.mjs", 321))
+1696153284120	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, channelStatus: 2153390067, errorCode: 2, reason: error
+1696153314241	geckodriver	INFO	Listening on 127.0.0.1:65256
+1696153317300	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65257" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Ioana\\AppData\\Local\\Temp\\rust_mozprofile2rP9gy"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1696153318196	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1696153318506	Marionette	INFO	Listening on port 65269
+WebDriver BiDi listening on ws://127.0.0.1:65257
+Read port: 65269
+1696153319365	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:65257/devtools/browser/7dc4f58f-9554-469a-b9b4-a2499b0a07a5
+JavaScript error: https://phptravels.net/, line 30: SyntaxError: unexpected token: identifier
+1696153337705	Marionette	INFO	Stopped listening on port 65269
+Dynamically enable window occlusion 1
+1696153419478	geckodriver	INFO	Listening on 127.0.0.1:65393
+1696153422553	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65394" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Ioana\\AppData\\Local\\Temp\\rust_mozprofile6jLkYk"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1696153424204	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1696153424514	Marionette	INFO	Listening on port 65404
+WebDriver BiDi listening on ws://127.0.0.1:65394
+Read port: 65404
+1696153425179	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:65394/devtools/browser/715bf4c9-dbee-4a3d-8f5d-06946aa8e005
+JavaScript error: https://phptravels.net/, line 30: SyntaxError: unexpected token: identifier
+1696153445423	Marionette	INFO	Stopped listening on port 65404
+Dynamically enable window occlusion 1
+1696153556420	geckodriver	INFO	Listening on 127.0.0.1:49384
+1696153559471	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49385" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Ioana\\AppData\\Local\\Temp\\rust_mozprofile43r886"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1696153560764	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1696153560944	Marionette	INFO	Listening on port 49394
+WebDriver BiDi listening on ws://127.0.0.1:49385
+Read port: 49394
+1696153561741	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:49385/devtools/browser/40a6e75f-acec-4ffe-adb6-02b3e7f9c341
+1696153671812	Marionette	INFO	Stopped listening on port 49394
+Dynamically enable window occlusion 1
+1696153693724	geckodriver	INFO	Listening on 127.0.0.1:49561
+1696153696790	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49562" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Ioana\\AppData\\Local\\Temp\\rust_mozprofiletG9tSj"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1696153697763	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1696153697892	Marionette	INFO	Listening on port 49571
+Read port: 49571
+WebDriver BiDi listening on ws://127.0.0.1:49562
+1696153698118	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:49562/devtools/browser/ef778a8f-deb2-4525-a774-38aa90dd0f7f
+1696153864284	geckodriver	INFO	Listening on 127.0.0.1:49754
+1696153867370	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49755" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Ioana\\AppData\\Local\\Temp\\rust_mozprofileO5lWBZ"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1696153868381	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1696153868544	Marionette	INFO	Listening on port 49766
+WebDriver BiDi listening on ws://127.0.0.1:49755
+Read port: 49766
+1696153869087	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:49755/devtools/browser/d1274f0a-6cf6-4af3-bd30-853d2abc5985
+JavaScript error: https://phptravels.net/, line 26: SyntaxError: unexpected token: identifier
+1696153886363	Marionette	INFO	Stopped listening on port 49766
+Dynamically enable window occlusion 1
+1696153904460	geckodriver	INFO	Listening on 127.0.0.1:49847
+1696153907506	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49848" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Ioana\\AppData\\Local\\Temp\\rust_mozprofileZmyhaP"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1696153908615	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1696153908727	Marionette	INFO	Listening on port 49869
+WebDriver BiDi listening on ws://127.0.0.1:49848
+Read port: 49869
+1696153909151	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:49848/devtools/browser/7ab01c3d-5438-4960-9b1b-c2dac514fcd2
+JavaScript error: https://phptravels.net/, line 26: SyntaxError: unexpected token: identifier
+1696153925724	Marionette	INFO	Stopped listening on port 49869
+JavaScript warning: https://code.jquery.com/jquery-3.6.1.min.js, line 2: Script terminated by timeout at:
+swing@https://code.jquery.com/jquery-3.6.1.min.js:2:58859
+run@https://code.jquery.com/jquery-3.6.1.min.js:2:58020
+u@https://code.jquery.com/jquery-3.6.1.min.js:2:59696
+S.fx.tick@https://code.jquery.com/jquery-3.6.1.min.js:2:64739
+st@https://code.jquery.com/jquery-3.6.1.min.js:2:59098
+
+Dynamically enable window occlusion 1
+!!! error running onStopped callback: TypeError: callback is not a function
+1696154236509	geckodriver	INFO	Listening on 127.0.0.1:50327
+1696154239610	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50328" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Ioana\\AppData\\Local\\Temp\\rust_mozprofileiURoFy"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1696154240630	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1696154241018	Marionette	INFO	Listening on port 50339
+WebDriver BiDi listening on ws://127.0.0.1:50328
+Read port: 50339
+1696154241632	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:50328/devtools/browser/8e0a495c-8946-4bc7-85e7-3ebbed1b738d
+1696154256150	geckodriver	INFO	Listening on 127.0.0.1:50368
+1696154259237	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50369" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Ioana\\AppData\\Local\\Temp\\rust_mozprofileafJrZm"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1696154260058	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1696154260256	Marionette	INFO	Listening on port 50378
+WebDriver BiDi listening on ws://127.0.0.1:50369
+Read port: 50378
+1696154260661	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:50369/devtools/browser/24235cda-73ab-4752-b650-683f97a2aa33
+JavaScript error: https://phptravels.net/, line 26: SyntaxError: unexpected token: identifier
+1696154276401	Marionette	INFO	Stopped listening on port 50378
+Dynamically enable window occlusion 1
+1696154314082	geckodriver	INFO	Listening on 127.0.0.1:50474
+1696154317130	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50475" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Ioana\\AppData\\Local\\Temp\\rust_mozprofilezAiQWx"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1696154317925	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1696154318207	Marionette	INFO	Listening on port 50486
+WebDriver BiDi listening on ws://127.0.0.1:50475
+Read port: 50486
+1696154318894	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:50475/devtools/browser/45faccb2-9a42-422c-988c-373ff14d992d
+JavaScript error: https://phptravels.net/, line 26: SyntaxError: unexpected token: identifier
+1696154333031	Marionette	INFO	Stopped listening on port 50486
+Dynamically enable window occlusion 1
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1696154456233	geckodriver	INFO	Listening on 127.0.0.1:50624
+1696154459311	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50625" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Ioana\\AppData\\Local\\Temp\\rust_mozprofileCzxWD2"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1696154460411	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1696154460634	Marionette	INFO	Listening on port 50634
+WebDriver BiDi listening on ws://127.0.0.1:50625
+Read port: 50634
+1696154461181	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:50625/devtools/browser/fd480fa0-a0db-4a14-aa40-3eef968a2258
+JavaScript error: https://phptravels.net/, line 26: SyntaxError: unexpected token: identifier
+1696154480503	Marionette	INFO	Stopped listening on port 50634
+JavaScript warning: https://code.jquery.com/jquery-3.6.1.min.js, line 2: Script terminated by timeout at:
+S.fx.tick@https://code.jquery.com/jquery-3.6.1.min.js:2:64685
+st@https://code.jquery.com/jquery-3.6.1.min.js:2:59098
+
+Dynamically enable window occlusion 1
+1696154552085	geckodriver	INFO	Listening on 127.0.0.1:50765
+1696154555144	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50766" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Ioana\\AppData\\Local\\Temp\\rust_mozprofilet1vFof"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1696154555908	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1696154556108	Marionette	INFO	Listening on port 50775
+WebDriver BiDi listening on ws://127.0.0.1:50766
+Read port: 50775
+1696154556508	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:50766/devtools/browser/071e4460-9402-4c2d-91c0-b3a87f027ce9
+JavaScript error: https://phptravels.net/, line 26: SyntaxError: unexpected token: identifier
+1696154570801	Marionette	INFO	Stopped listening on port 50775
+Dynamically enable window occlusion 1
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1696154702110	geckodriver	INFO	Listening on 127.0.0.1:51201
+1696154707363	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51202" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Ioana\\AppData\\Local\\Temp\\rust_mozprofileMK0PIG"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1696154709187	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1696154709490	Marionette	INFO	Listening on port 51229
+WebDriver BiDi listening on ws://127.0.0.1:51202
+Read port: 51229
+1696154710868	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:51202/devtools/browser/71d7de7b-e58f-4f93-9d1d-411622429165
+JavaScript error: https://phptravels.net/, line 26: SyntaxError: unexpected token: identifier
+1696154727407	Marionette	INFO	Stopped listening on port 51229
+Dynamically enable window occlusion 1
+1696154815643	geckodriver	INFO	Listening on 127.0.0.1:51352
+1696154818713	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51353" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Ioana\\AppData\\Local\\Temp\\rust_mozprofilej7CfGc"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1696154819436	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1696154819547	Marionette	INFO	Listening on port 51362
+WebDriver BiDi listening on ws://127.0.0.1:51353
+Read port: 51362
+1696154819962	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:51353/devtools/browser/86af1c86-ddd6-4dc2-b270-6583580838c0
+JavaScript error: https://phptravels.net/, line 26: SyntaxError: unexpected token: identifier
+1696154833589	Marionette	INFO	Stopped listening on port 51362
+Dynamically enable window occlusion 1
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1696154892888	geckodriver	INFO	Listening on 127.0.0.1:51461
+1696154895956	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51462" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Ioana\\AppData\\Local\\Temp\\rust_mozprofile6AqaSJ"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1696154896753	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1696154896862	Marionette	INFO	Listening on port 51472
+WebDriver BiDi listening on ws://127.0.0.1:51462
+Read port: 51472
+1696154897249	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:51462/devtools/browser/36d20d42-e2be-432a-8e56-c7c84d6d66ee
+JavaScript error: https://phptravels.net/, line 26: SyntaxError: unexpected token: identifier
+1696154917576	Marionette	INFO	Stopped listening on port 51472
+Dynamically enable window occlusion 1
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1696155400967	geckodriver	INFO	Listening on 127.0.0.1:51767
+1696155404050	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51768" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Ioana\\AppData\\Local\\Temp\\rust_mozprofileJd0iu3"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1696155404962	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1696155405092	Marionette	INFO	Listening on port 51777
+WebDriver BiDi listening on ws://127.0.0.1:51768
+Read port: 51777
+1696155405586	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:51768/devtools/browser/8be52384-dd43-4f4e-823d-3306f7303632
+Marionette threw an error: TypeError: this.curBrowser.contentBrowser is null
+GeckoDriver.prototype.navigateTo@chrome://remote/content/marionette/driver.sys.mjs:870:3
+
+console.error: "Marionette threw an error: TypeError: this.curBrowser.contentBrowser is null\nGeckoDriver.prototype.navigateTo@chrome://remote/content/marionette/driver.sys.mjs:870:3\n"
+JavaScript warning: https://code.jquery.com/jquery-3.6.1.min.js, line 2: Script terminated by timeout at:
+S@https://code.jquery.com/jquery-3.6.1.min.js:2:1044
+@https://phptravels.net/:4720:2
+
+1696156891188	Marionette	INFO	Stopped listening on port 51777
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52519" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Ioana\\AppData\\Local\\Temp\\rust_mozprofilef5tRoz"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1696155737142	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1696155737253	Marionette	INFO	Listening on port 52528
+Read port: 52528
+WebDriver BiDi listening on ws://127.0.0.1:52519
+1696155737433	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:52519/devtools/browser/fb5c7945-68f0-4089-b8e3-3b30e0ccd3fb
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://phptravels.net."
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 593))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://phptravels.net."
+1696155764596	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1696155775299	Marionette	INFO	Stopped listening on port 52528
+Dynamically enable window occlusion 1
+console.error: services.settings: 
+  main/search-config Signature failed  TypeError: NetworkError: Network request failed
+console.error: services.settings: 
+  Message: NetworkError: Network error: TypeError: NetworkError: Network request failed
+  Stack:
+    APIError@resource://services-settings/RemoteSettingsClient.sys.mjs:107:1
+NetworkError@resource://services-settings/RemoteSettingsClient.sys.mjs:111:5
+_adjustedError@resource://services-settings/RemoteSettingsClient.sys.mjs:907:14
+maybeSync@resource://services-settings/RemoteSettingsClient.sys.mjs:812:38
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:573:17
+
+console.error: (new Error("IndexedDB: main/message-groups getLastModified() IndexedDB:  execute() The application is shutting down", "resource://services-settings/IDBHelpers.sys.mjs", 16))
+1696155780436	geckodriver	INFO	Listening on 127.0.0.1:52638
+1696155783482	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52639" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Ioana\\AppData\\Local\\Temp\\rust_mozprofiletFkSGY"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1696155784312	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1696155784443	Marionette	INFO	Listening on port 52648
+WebDriver BiDi listening on ws://127.0.0.1:52639
+Read port: 52648
+1696155784847	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:52639/devtools/browser/42a63641-b877-4667-9270-6381104a5b67
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://phptravels.net."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://phptravels.net."
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 593))
+1696155806045	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 593))
+1696155814466	Marionette	INFO	Stopped listening on port 52648
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i7M54/y5/l/en_US/fmUvZ3fU83l.js?_nc_x=Ij3Wp8lg5Kz, line 519: Script terminated by timeout at:
+resize@https://static.xx.fbcdn.net/rsrc.php/v3i7M54/y5/l/en_US/fmUvZ3fU83l.js?_nc_x=Ij3Wp8lg5Kz:519:617
+
+JavaScript warning: https://phptravels.net/assets/js/app.js, line 877: Script terminated by timeout at:
+callback@https://phptravels.net/assets/js/app.js:877:9
+destroy/<@https://phptravels.net/assets/js/app.js:224:32
+
+Dynamically enable window occlusion 1
+1696155815709	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, channelStatus: 2147500036, errorCode: 2, reason: error
+console.error: (new Error("Polling for changes failed: NetworkError: Network request failed.", "resource://services-settings/remote-settings.sys.mjs", 321))
+1696155819235	geckodriver	INFO	Listening on 127.0.0.1:52745
+1696155822285	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52746" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Ioana\\AppData\\Local\\Temp\\rust_mozprofileoz7eC8"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1696155823293	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1696155823479	Marionette	INFO	Listening on port 52755
+WebDriver BiDi listening on ws://127.0.0.1:52746
+Read port: 52755
+1696155824250	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:52746/devtools/browser/f7b0e72b-833d-40b4-a5cd-56621a4e072b
+JavaScript error: , line 0: AbortError: The operation was aborted. 
+1696155843295	Marionette	INFO	Stopped listening on port 52755
+JavaScript warning: https://connect.facebook.net/en_US/sdk.js?hash=a4bc65fd02c58c2736391ef3c261e968, line 109: Script terminated by timeout at:
+l@https://connect.facebook.net/en_US/sdk.js?hash=a4bc65fd02c58c2736391ef3c261e968:109:3835
+getLoginStatus@https://connect.facebook.net/en_US/sdk.js?hash=a4bc65fd02c58c2736391ef3c261e968:154:319
+j/<@https://connect.facebook.net/en_US/sdk.js?hash=a4bc65fd02c58c2736391ef3c261e968:73:936
+a/f/<@https://connect.facebook.net/en_US/sdk.js?hash=a4bc65fd02c58c2736391ef3c261e968:63:260
+window.fbAsyncInit@https://phptravels.net/login:434:10
+a/g/a.__wrapper@https://connect.facebook.net/en_US/sdk.js?hash=a4bc65fd02c58c2736391ef3c261e968:63:825
+a/<@https://connect.facebook.net/en_US/sdk.js?hash=a4bc65fd02c58c2736391ef3c261e968:224:805
+
+Dynamically enable window occlusion 1
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1696155976363	geckodriver	INFO	Listening on 127.0.0.1:52949
+1696155979451	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52950" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Ioana\\AppData\\Local\\Temp\\rust_mozprofileGNiK5t"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1696155980514	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1696155980712	Marionette	INFO	Listening on port 52963
+WebDriver BiDi listening on ws://127.0.0.1:52950
+Read port: 52963
+1696155981539	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:52950/devtools/browser/97caefa5-60ab-4188-b23f-5a2b4a37e189
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://phptravels.net."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://phptravels.net."
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 593))
+1696156006796	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://accounts.google.com/gsi/button?type=standard&text=signin_with&logo_alignment=center&width=600&height=44&longtitle=true&client_id=48292472266-agb9cjbo6v6ala0cdrc4c1r936env6iu.apps.googleusercontent.com&iframe_id=gsi_4750_187625&as=S34o89BW9HDvbwqWbShkaw, line 162: Script terminated by timeout at:
+_.eh@/_/gsi/_/js/k=gsi.gsi.ro.ibYDb8nm29g.O/am=ACgY/d=1/rs=AF0KOtU4T7UFJVQYc8u0joAqGOf_kD2uJQ/m=credential_button_library:162:32
+ti@/_/gsi/_/js/k=gsi.gsi.ro.ibYDb8nm29g.O/am=ACgY/d=1/rs=AF0KOtU4T7UFJVQYc8u0joAqGOf_kD2uJQ/m=credential_button_library:189:201
+qi@/_/gsi/_/js/k=gsi.gsi.ro.ibYDb8nm29g.O/am=ACgY/d=1/rs=AF0KOtU4T7UFJVQYc8u0joAqGOf_kD2uJQ/m=credential_button_library:189:22
+mi.prototype.I@/_/gsi/_/js/k=gsi.gsi.ro.ibYDb8nm29g.O/am=ACgY/d=1/rs=AF0KOtU4T7UFJVQYc8u0joAqGOf_kD2uJQ/m=credential_button_library:188:101
+mi/<@/_/gsi/_/js/k=gsi.gsi.ro.ibYDb8nm29g.O/am=ACgY/d=1/rs=AF0KOtU4T7UFJVQYc8u0joAqGOf_kD2uJQ/m=credential_button_library:182:338
+jc@/_/gsi/_/js/k=gsi.gsi.ro.ibYDb8nm29g.O/am=ACgY/d=1/rs=AF0KOtU4T7UFJVQYc8u0joAqGOf_kD2uJQ/m=credential_button_library:54:102
+b@/_/gsi/_/js/k=gsi.gsi.ro.ibYDb8nm29g.O/am=ACgY/d=1/rs=AF0KOtU4T7UFJVQYc8u0joAqGOf_kD2uJQ/m=credential_button_library:51:473
+
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i7M54/y5/l/en_US/fmUvZ3fU83l.js?_nc_x=Ij3Wp8lg5Kz, line 374: Script terminated by timeout at:
+filterPost@https://static.xx.fbcdn.net/rsrc.php/v3i7M54/y5/l/en_US/fmUvZ3fU83l.js?_nc_x=Ij3Wp8lg5Kz:374:1203
+_gatherWadsAndPostsFromBuffer/d<@https://static.xx.fbcdn.net/rsrc.php/v3i7M54/y5/l/en_US/fmUvZ3fU83l.js?_nc_x=Ij3Wp8lg5Kz:401:657
+_gatherWadsAndPostsFromBuffer@https://static.xx.fbcdn.net/rsrc.php/v3i7M54/y5/l/en_US/fmUvZ3fU83l.js?_nc_x=Ij3Wp8lg5Kz:401:612
+_tryToSendViaBeacon@https://static.xx.fbcdn.net/rsrc.php/v3i7M54/y5/l/en_US/fmUvZ3fU83l.js?_nc_x=Ij3Wp8lg5Kz:401:4034
+_initialize/<@https://static.xx.fbcdn.net/rsrc.php/v3i7M54/y5/l/en_US/fmUvZ3fU83l.js?_nc_x=Ij3Wp8lg5Kz:401:1236
+applyWithGuard@https://static.xx.fbcdn.net/rsrc.php/v3i7M54/y5/l/en_US/fmUvZ3fU83l.js?_nc_x=Ij3Wp8lg5Kz:65:10432
+c.__emitToSubscription@https://static.xx.fbcdn.net/rsrc.php/v3i7M54/y5/l/en_US/fmUvZ3fU83l.js?_nc_x=Ij3Wp8lg5Kz:74:1477
+c.emit@https://static.xx.fbcdn.net/rsrc.php/v3i7M54/y5/l/en_US/fmUvZ3fU83l.js?_nc_x=Ij3Wp8lg5Kz:74:1303
+@https://static.xx.fbcdn.net/rsrc.php/v3i7M54/y5/l/en_US/fmUvZ3fU83l.js?_nc_x=Ij3Wp8lg5Kz:400:1027
+applyWithGuard@https://static.xx.fbcdn.net/rsrc.php/v3i7M54/y5/l/en_US/fmUvZ3fU83l.js?_nc_x=Ij3Wp8lg5Kz:65:10432
+d@https://static.xx.fbcdn.net/rsrc.php/v3i7M54/y5/l/en_US/fmUvZ3fU83l.js?_nc_x=Ij3Wp8lg5Kz:500:2086
+
+1696156010468	Marionette	INFO	Stopped listening on port 52963
+Dynamically enable window occlusion 1
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.error: (new Error("Polling for changes failed: NetworkError: Network request failed.", "resource://services-settings/remote-settings.sys.mjs", 321))
+1696156011685	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, channelStatus: 2147500036, errorCode: 2, reason: error
+1696156027300	geckodriver	INFO	Listening on 127.0.0.1:53061
+1696156030336	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53062" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Ioana\\AppData\\Local\\Temp\\rust_mozprofileC46AEc"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1696156031457	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1696156031794	Marionette	INFO	Listening on port 53071
+WebDriver BiDi listening on ws://127.0.0.1:53062
+Read port: 53071
+Read port: 53071
+1696156035432	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:53062/devtools/browser/11ad4bf4-615b-4c3f-b0e2-37105591b220
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://phptravels.net."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://phptravels.net."
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1696156057143	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1696156066597	Marionette	INFO	Stopped listening on port 53071
+Dynamically enable window occlusion 1
+1696156149592	geckodriver	INFO	Listening on 127.0.0.1:53204
+1696156152633	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53205" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Ioana\\AppData\\Local\\Temp\\rust_mozprofileD8GG60"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1696156153344	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1696156153487	Marionette	INFO	Listening on port 53213
+WebDriver BiDi listening on ws://127.0.0.1:53205
+Read port: 53213
+1696156153819	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:53205/devtools/browser/a18523f5-c5f4-477a-99eb-24b94f1deb46
+JavaScript error: https://phptravels.net/, line 26: SyntaxError: unexpected token: identifier
+JavaScript error: , line 0: AbortError: The operation was aborted. 
+JavaScript error: https://phptravels.net/login, line 26: SyntaxError: unexpected token: identifier
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://phptravels.net."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://phptravels.net."
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1696156175927	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://phptravels.net/dashboard, line 26: SyntaxError: unexpected token: identifier
+1696156180411	Marionette	INFO	Stopped listening on port 53213
+Dynamically enable window occlusion 1
+1696156868473	geckodriver	INFO	Listening on 127.0.0.1:54657
+1696156871569	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54658" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Ioana\\AppData\\Local\\Temp\\rust_mozprofile3hDVLA"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1696156872399	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1696156872505	Marionette	INFO	Listening on port 54667
+WebDriver BiDi listening on ws://127.0.0.1:54658
+Read port: 54667
+1696156872925	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:54658/devtools/browser/e95770fb-a908-4da3-8cd7-385e848998a1
+1696156902726	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:203:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:429:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:178:31
+1696156918824	Marionette	INFO	Stopped listening on port 54667
+Dynamically enable window occlusion 1

@@ -41,5 +41,13 @@ class Home(unittest.TestCase):
         price_len = len(price) > 0
         self.assertTrue(price_len)
 
+    def test_tablist(self):
+        # Testam ca elementele din lista cu id-ul tab au clasa nav-item
+        tab_parent = self.firefox.find_element(By.XPATH, "//*[@id='tab']")
+        nav_tabs = tab_parent.find_elements(By.XPATH, '*')
+        for nav_tab in nav_tabs:
+            nav_tab_class = nav_tab.get_attribute('class')
+            self.assertEqual(nav_tab_class, 'nav-item')
+
     def tearDown(self):
         self.firefox.quit()

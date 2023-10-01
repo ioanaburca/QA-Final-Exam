@@ -43,7 +43,7 @@ class Login(unittest.TestCase):
 
         # Verificam ca apare mesajul Invalid Login.
         self.firefox.find_element(By.ID, 'submitBTN').click()
-        account_not_active = self.firefox.find_element(By.XPATH, "//*[contains(text(), 'Inv n')]")
+        account_not_active = self.firefox.find_element(By.XPATH, "//*[contains(text(), 'Invalid Login')]")
         self.assertTrue(account_not_active)
 
     def test_active_account(self):
@@ -62,7 +62,7 @@ class Login(unittest.TestCase):
         # Verificam ca apare mesajul numele Demo Agent, numele utilizatorului.
         self.firefox.find_element(By.ID, 'submitBTN').click()
         agent_name_expected = 'Demo Agent'
-        agent_name_element = self.firefox.find_element(By.XPATH, "//*[@id='fadein']/div[1]/div/div/div[1]/div/div/div/div[3]/h6/strong")
+        agent_name_element = self.firefox.find_element(By.XPATH, "//*[@id='fadein']/div[2]/div/div/div[1]/div/div/div/div[3]/h6/strong")
         self.assertEqual(agent_name_element.text, agent_name_expected)
     
     def tearDown(self):
