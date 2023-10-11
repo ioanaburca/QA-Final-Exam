@@ -9,7 +9,7 @@ class Home(unittest.TestCase):
     def setUp(self):
         self.firefox = webdriver.Firefox()
         self.firefox.maximize_window()
-        self.firefox.get("https://www.phptravels.net/")
+        self.firefox.get("https://phptravels.site/")
         self.firefox.implicitly_wait(5)
 
     def test_hotel_area_section(self):
@@ -26,7 +26,7 @@ class Home(unittest.TestCase):
             if carousel:
                 carousel_prev = self.firefox.find_element(By.CLASS_NAME, 'slick-prev')
                 carousel_prev.location_once_scrolled_into_view
-                WebDriverWait(self.firefox, 2000).until(EC.element_to_be_clickable(carousel_prev))
+                WebDriverWait(self.firefox, 10000).until(EC.element_to_be_clickable(carousel_prev))
                 carousel_prev.click()
                 prev_clicked = True;
                 self.assertTrue(prev_clicked)

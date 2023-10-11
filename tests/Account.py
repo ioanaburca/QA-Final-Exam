@@ -14,16 +14,18 @@ class Account(unittest.TestCase):
     def setUp(self):
         self.firefox = webdriver.Firefox()
         self.firefox.maximize_window()
-        self.firefox.get("https://www.phptravels.net/login")
-        self.firefox.implicitly_wait(3)
+        self.firefox.get("https://phptravels.site/login")
+        self.firefox.implicitly_wait(20)
 
         # Ne Logam
         self.firefox.find_element(By.ID, 'email').send_keys(self.EMAIL)
         self.firefox.find_element(By.ID, 'password').send_keys(self.PAROLA)
+        self.firefox.implicitly_wait(10)
         self.firefox.find_element(By.ID, 'submitBTN').click()
+        self.firefox.implicitly_wait(60)
 
     def test_dashboard(self):
-        # Testam ca exista butonul Dashboard si ca titlul paginei este Dashboard
+        # Testam ca exista butonul Dashboard si ca titlul paginii este Dashboard
         self.firefox.find_element(By.XPATH, '//*[@id="navbarSupportedContent"]/div[2]/ul/li[3]/a').click()
         self.firefox.find_element(By.XPATH, '//*[@id="navbarSupportedContent"]/div[2]/ul/li[3]/ul/li[1]/a').click()
         WebDriverWait(self.firefox, 1000).until(EC.title_contains('Dashboard'))

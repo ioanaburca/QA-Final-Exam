@@ -15,8 +15,8 @@ class Login(unittest.TestCase):
     def setUp(self):
         self.firefox = webdriver.Firefox()
         self.firefox.maximize_window()
-        self.firefox.get("https://www.phptravels.net/")
-        self.firefox.implicitly_wait(5)
+        self.firefox.get("https://phptravels.site/")
+        self.firefox.implicitly_wait(20)
 
     def test_login_page(self):
         # Mergem pe pagina de Login
@@ -25,7 +25,7 @@ class Login(unittest.TestCase):
 
         # Verificam URL-ul sa fie pe pagina de Login
         current_url = self.firefox.current_url
-        expected_url = 'https://phptravels.net/login'
+        expected_url = 'https://phptravels.site/login'
         self.assertTrue(current_url, expected_url)
 
     def test_inactive_account(self):
@@ -62,7 +62,7 @@ class Login(unittest.TestCase):
         # Verificam ca apare mesajul numele Demo Agent, numele utilizatorului.
         self.firefox.find_element(By.ID, 'submitBTN').click()
         agent_name_expected = 'Demo Agent'
-        agent_name_element = self.firefox.find_element(By.XPATH, "//*[@id='fadein']/div[2]/div/div/div[1]/div/div/div/div[3]/h6/strong")
+        agent_name_element = self.firefox.find_element(By.XPATH, "//*[@id='fadein']/div[3]/div/div/div[1]/div/div/div/div[3]/h6/strong")
         self.assertEqual(agent_name_element.text, agent_name_expected)
     
     def tearDown(self):

@@ -14,12 +14,12 @@ class SearchHotel(unittest.TestCase):
     def setUpClass(self):
         self.firefox = webdriver.Firefox()
         self.firefox.maximize_window()
-        self.firefox.get("https://phptravels.net")
-        self.firefox.implicitly_wait(2)
+        self.firefox.get("https://phptravels.site")
+        self.firefox.implicitly_wait(30)
 
         # Mergem pe tabul Hotels
         self.firefox.find_element(By.CSS_SELECTOR, 'button[data-bs-target="#tab-hotels"]').click()
-
+        self.firefox.implicitly_wait(30)
     def test_1_search_by_element(self):
         # Testam campul 'Search By', cautandu-l dupa XPATH, ii dam valoare si verificam ca are valoare oferita.
         self.firefox.find_element(By.XPATH, '//*[@id="hotels-search"]/div/div[1]/div[1]').click()

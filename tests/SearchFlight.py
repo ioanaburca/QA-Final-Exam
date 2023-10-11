@@ -14,9 +14,10 @@ class SearchFlight(unittest.TestCase):
     def setUpClass(self):
         self.firefox = webdriver.Firefox()
         self.firefox.maximize_window()
-        self.firefox.get("https://phptravels.net")
-        self.firefox.implicitly_wait(2)
+        self.firefox.get("https://phptravels.site")
+        self.firefox.implicitly_wait(30)
         self.firefox.find_element(By.CSS_SELECTOR, 'button[data-bs-target="#tab-flights"]').click()
+        self.firefox.implicitly_wait(30)
 
     def test_1_flying_from_element(self):
         # Testam campul 'from', cautandu-l dupa XPATH, ii dam valoare si verificam ca are valoare oferita.

@@ -3,7 +3,7 @@
 
 ### Repository - https://github.com/ioanaburca/QA-Final-Exam
 
-Pentru testare am folosit site-ul https://phptravels.net, testand functionalitati precum Login-ul, Contul, Elemente de pe pagina, Formulare.
+Pentru testare am folosit site-ul https://phptravels.site, testand functionalitati precum Login-ul, Contul, Elemente de pe pagina, Formulare.
 
 # Ce face proiectul
 
